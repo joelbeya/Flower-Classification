@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24039</ObservationId>
+  <MediaId>91709</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>laetitia goeau</Author>
+  <Date>2013-3-9</Date>
+  <Location>Saint-Didier-de-la-Tour</Location>
+  <Latitude>45.5645</Latitude>
+  <Longitude>5.50933</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14439</ObservationId2014>
+  <ImageId2014>52258</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

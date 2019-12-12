@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36195</ObservationId>
+  <MediaId>36929</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>olivier iborra</Author>
+  <Date>2007-3-15</Date>
+  <Location>Saint-Genis-les-Ollières</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17164</ObservationId2014>
+  <ImageId2014>56197</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13468</ObservationId>
+  <MediaId>59205</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>pierre bonnet</Author>
+  <Date>2013-6-22</Date>
+  <Location>Montpellier</Location>
+  <Latitude>43.598</Latitude>
+  <Longitude>3.90067</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5195</ObservationId2014>
+  <ImageId2014>14308</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5696</ObservationId>
+  <MediaId>103897</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>philippe baldi</Author>
+  <Date>2012-3-23</Date>
+  <Location>Fournès-Gard</Location>
+  <Latitude>43.91719</Latitude>
+  <Longitude>4.61082</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8026</ObservationId2014>
+  <ImageId2014>9643</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27710</ObservationId>
+  <MediaId>81926</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4460</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone hepatica L.</Species>
+  <Author>francois meignant</Author>
+  <Date>2008-4-16</Date>
+  <Location>Moulainville</Location>
+  <Latitude>49.16076</Latitude>
+  <Longitude>5.46883</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>18107</ObservationId2014>
+  <ImageId2014>59809</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

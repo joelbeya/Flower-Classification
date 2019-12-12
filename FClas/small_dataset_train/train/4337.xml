@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35170</ObservationId>
+  <MediaId>4337</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>967</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Hypochaeris</Genus>
+  <Species>Hypochaeris radicata L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2008-6-28</Date>
+  <Location>Belin-Béliet</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2091</ObservationId2014>
+  <ImageId2014>16719</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

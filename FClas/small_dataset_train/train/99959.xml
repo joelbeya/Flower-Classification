@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2263</ObservationId>
+  <MediaId>99959</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8534</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aconitum</Genus>
+  <Species>Aconitum napellus L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2011-7-30</Date>
+  <Location>Colombier</Location>
+  <Latitude>45.38753</Latitude>
+  <Longitude>4.5854</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7441</ObservationId2014>
+  <ImageId2014>43445</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

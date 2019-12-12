@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24762</ObservationId>
+  <MediaId>72326</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>jean claude estatico</Author>
+  <Date>2009-6-1</Date>
+  <Location />
+  <Latitude>48.64804</Latitude>
+  <Longitude>5.63768</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16997</ObservationId2014>
+  <ImageId2014>46489</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

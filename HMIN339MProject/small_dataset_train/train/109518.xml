@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19050</ObservationId>
+  <MediaId>109518</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>jean-claude calais</Author>
+  <Date>2010-5-29</Date>
+  <Location>Marchastel</Location>
+  <Latitude>44.66633</Latitude>
+  <Longitude>3.10065</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6973</ObservationId2014>
+  <ImageId2014>8081</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

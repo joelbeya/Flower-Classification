@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16365</ObservationId>
+  <MediaId>58166</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2012-6-9</Date>
+  <Location>Auvers-Saint-Georges</Location>
+  <Latitude>48.48988</Latitude>
+  <Longitude>2.22937</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7551</ObservationId2014>
+  <ImageId2014>28539</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

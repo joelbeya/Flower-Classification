@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36944</ObservationId>
+  <MediaId>59679</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>ans gorter</Author>
+  <Date>2014-5-24</Date>
+  <Location>Province de Cadix</Location>
+  <Latitude>41.67142</Latitude>
+  <Longitude>-0.25414</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

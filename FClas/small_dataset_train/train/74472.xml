@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28648</ObservationId>
+  <MediaId>74472</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4353</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula vulgaris Huds.</Species>
+  <Author>marie-france pacaud</Author>
+  <Date>2005-3-20</Date>
+  <Location>Oudon</Location>
+  <Latitude>47.34702</Latitude>
+  <Longitude>-1.29061</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13218</ObservationId2014>
+  <ImageId2014>41896</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2315</ObservationId>
+  <MediaId>32087</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6415</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis anthropophora (L.) All.</Species>
+  <Author>joceline chappert-bessiere</Author>
+  <Date>2012-6-8</Date>
+  <Location>65-ASTE</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17323</ObservationId2014>
+  <ImageId2014>2120</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

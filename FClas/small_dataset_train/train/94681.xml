@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20377</ObservationId>
+  <MediaId>94681</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>Unknown429</Author>
+  <Date>2013-6-9</Date>
+  <Location>Champigny-sur-Marne</Location>
+  <Latitude>48.81109</Latitude>
+  <Longitude>2.49604</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6060</ObservationId2014>
+  <ImageId2014>59388</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

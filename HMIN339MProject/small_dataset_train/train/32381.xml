@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28794</ObservationId>
+  <MediaId>32381</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>jean claude estatico</Author>
+  <Date>2012-7-25</Date>
+  <Location />
+  <Latitude>48.65456</Latitude>
+  <Longitude>5.63464</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3477</ObservationId2014>
+  <ImageId2014>20966</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

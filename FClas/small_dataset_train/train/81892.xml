@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2313</ObservationId>
+  <MediaId>81892</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>julien barataud</Author>
+  <Date>2007-5-22</Date>
+  <Location>Nohèdes</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16509</ObservationId2014>
+  <ImageId2014>47675</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

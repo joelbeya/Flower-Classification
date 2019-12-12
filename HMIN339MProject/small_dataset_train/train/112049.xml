@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1172</ObservationId>
+  <MediaId>112049</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2008-5-30</Date>
+  <Location>Viala-du-Pas-de-Jaux</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16030</ObservationId2014>
+  <ImageId2014>55127</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

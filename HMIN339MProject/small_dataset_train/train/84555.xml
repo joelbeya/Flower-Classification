@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>30703</ObservationId>
+  <MediaId>84555</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6509</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys passionis Sennen</Species>
+  <Author>bertrand bui</Author>
+  <Date>2012-4-18</Date>
+  <Location>Les Pennes-Mirabeau</Location>
+  <Latitude>43.39967</Latitude>
+  <Longitude>5.34849</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

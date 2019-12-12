@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8750</ObservationId>
+  <MediaId>69190</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-5-13</Date>
+  <Location>La Couvertoirade</Location>
+  <Latitude>43.84443</Latitude>
+  <Longitude>3.26981</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15599</ObservationId2014>
+  <ImageId2014>46497</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14587</ObservationId>
+  <MediaId>40784</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>mathieu sinet</Author>
+  <Date>1800-1-1</Date>
+  <Location>Roquecourbe</Location>
+  <Latitude>43.66998</Latitude>
+  <Longitude>2.29237</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10833</ObservationId2014>
+  <ImageId2014>32007</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

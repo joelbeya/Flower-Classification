@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4154</ObservationId>
+  <MediaId>55452</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4460</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone hepatica L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2014-5-1</Date>
+  <Location>Gavarnie</Location>
+  <Latitude>42.71411</Latitude>
+  <Longitude>-0.01316</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

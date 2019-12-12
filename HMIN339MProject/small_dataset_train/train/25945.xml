@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>33269</ObservationId>
+  <MediaId>25945</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>691</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cirsium</Genus>
+  <Species>Cirsium vulgare (Savi) Ten.</Species>
+  <Author>florent beck</Author>
+  <Date>1800-1-1</Date>
+  <Location>Ummerstadt</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13110</ObservationId2014>
+  <ImageId2014>16036</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

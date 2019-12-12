@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35321</ObservationId>
+  <MediaId>94583</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2011-4-3</Date>
+  <Location>Ferrières-les-Verreries</Location>
+  <Latitude>43.86276</Latitude>
+  <Longitude>3.79704</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11433</ObservationId2014>
+  <ImageId2014>45173</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

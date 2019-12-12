@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14061</ObservationId>
+  <MediaId>7067</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-5-13</Date>
+  <Location>Meyrueis</Location>
+  <Latitude>44.16083</Latitude>
+  <Longitude>3.43194</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3441</ObservationId2014>
+  <ImageId2014>34998</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

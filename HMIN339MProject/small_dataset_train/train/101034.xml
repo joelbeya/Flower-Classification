@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4863</ObservationId>
+  <MediaId>101034</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2004-3-17</Date>
+  <Location>Tunisie</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14237</ObservationId2014>
+  <ImageId2014>14896</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

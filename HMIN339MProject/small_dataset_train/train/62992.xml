@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>30360</ObservationId>
+  <MediaId>62992</MediaId>
+  <Vote>4.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>bernard merlet</Author>
+  <Date>2012-6-11</Date>
+  <Location>Le Brignon</Location>
+  <Latitude>44.9002</Latitude>
+  <Longitude>3.89946</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4033</ObservationId2014>
+  <ImageId2014>34420</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

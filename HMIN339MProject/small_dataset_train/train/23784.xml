@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21413</ObservationId>
+  <MediaId>23784</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>christophe girod</Author>
+  <Date>2003-3-2</Date>
+  <Location>Montpellier (Campus de La Gaillarde) (34)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9434</ObservationId2014>
+  <ImageId2014>35674</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

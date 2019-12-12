@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15728</ObservationId>
+  <MediaId>23712</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2004-6-8</Date>
+  <Location>Vaudrémont</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15012</ObservationId2014>
+  <ImageId2014>52777</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

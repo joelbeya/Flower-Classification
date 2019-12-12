@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17044</ObservationId>
+  <MediaId>37687</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>andrine faure</Author>
+  <Date>2012-4-14</Date>
+  <Location>Lisors</Location>
+  <Latitude>49.36796</Latitude>
+  <Longitude>1.48049</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9646</ObservationId2014>
+  <ImageId2014>58461</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

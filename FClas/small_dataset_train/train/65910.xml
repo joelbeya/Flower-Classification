@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21810</ObservationId>
+  <MediaId>65910</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>martin serre</Author>
+  <Date>2012-4-24</Date>
+  <Location>Indre</Location>
+  <Latitude>47.19941</Latitude>
+  <Longitude>-1.69074</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16347</ObservationId2014>
+  <ImageId2014>55877</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

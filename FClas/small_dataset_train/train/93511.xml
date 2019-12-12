@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4824</ObservationId>
+  <MediaId>93511</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>anne pineau</Author>
+  <Date>2008-6-2</Date>
+  <Location>Jarzé</Location>
+  <Latitude>47.55656</Latitude>
+  <Longitude>-0.26495</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1501</ObservationId2014>
+  <ImageId2014>51311</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

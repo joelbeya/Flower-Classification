@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38897</ObservationId>
+  <MediaId>55828</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8534</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aconitum</Genus>
+  <Species>Aconitum napellus L.</Species>
+  <Author>anne billon</Author>
+  <Date>2010-7-27</Date>
+  <Location>Le Château</Location>
+  <Latitude>44.90784</Latitude>
+  <Longitude>5.3548</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15917</ObservationId2014>
+  <ImageId2014>41245</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

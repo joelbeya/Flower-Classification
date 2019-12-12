@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20639</ObservationId>
+  <MediaId>81116</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>therese dupas</Author>
+  <Date>2011-5-9</Date>
+  <Location>Montjean-sur-Loire</Location>
+  <Latitude>47.37295</Latitude>
+  <Longitude>-0.84535</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2798</ObservationId2014>
+  <ImageId2014>45904</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

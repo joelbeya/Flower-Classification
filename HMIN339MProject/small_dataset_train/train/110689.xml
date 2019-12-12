@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9457</ObservationId>
+  <MediaId>110689</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>jame lagarrigue</Author>
+  <Date>2013-6-5</Date>
+  <Location>Poulx</Location>
+  <Latitude>43.91081</Latitude>
+  <Longitude>4.42406</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>747</ObservationId2014>
+  <ImageId2014>23882</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

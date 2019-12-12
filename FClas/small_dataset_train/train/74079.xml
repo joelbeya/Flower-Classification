@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41327</ObservationId>
+  <MediaId>74079</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>ed</Author>
+  <Date>2014-5-18</Date>
+  <Location>Grenoble</Location>
+  <Latitude>45.18835</Latitude>
+  <Longitude>5.70519</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

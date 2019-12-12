@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15856</ObservationId>
+  <MediaId>78387</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>alain bigou</Author>
+  <Date>2006-5-25</Date>
+  <Location>Saint-Martin-de-Vers</Location>
+  <Latitude>44.57993</Latitude>
+  <Longitude>1.56759</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

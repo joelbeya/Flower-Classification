@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16866</ObservationId>
+  <MediaId>21145</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-6-5</Date>
+  <Location>Paris</Location>
+  <Latitude>48.84059</Latitude>
+  <Longitude>2.36158</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1017</ObservationId2014>
+  <ImageId2014>24472</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

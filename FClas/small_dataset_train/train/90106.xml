@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27949</ObservationId>
+  <MediaId>90106</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2008-10-24</Date>
+  <Location>Sète</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2357</ObservationId2014>
+  <ImageId2014>40160</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

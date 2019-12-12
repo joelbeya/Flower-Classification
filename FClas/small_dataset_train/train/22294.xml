@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1457</ObservationId>
+  <MediaId>22294</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>claude figureau</Author>
+  <Date>2005-9-12</Date>
+  <Location>St Jean Luz Plage Lafitenia</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17137</ObservationId2014>
+  <ImageId2014>15325</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

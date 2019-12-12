@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29394</ObservationId>
+  <MediaId>45027</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>ans gorter</Author>
+  <Date>2014-10-17</Date>
+  <Location>Leucate</Location>
+  <Latitude>42.91158</Latitude>
+  <Longitude>3.0576</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

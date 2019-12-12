@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15378</ObservationId>
+  <MediaId>57230</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>151</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Daucus</Genus>
+  <Species>Daucus carota L.</Species>
+  <Author>pierre bonnet</Author>
+  <Date>2013-6-20</Date>
+  <Location>Montpellier</Location>
+  <Latitude>43.59599</Latitude>
+  <Longitude>3.90111</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14068</ObservationId2014>
+  <ImageId2014>34971</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

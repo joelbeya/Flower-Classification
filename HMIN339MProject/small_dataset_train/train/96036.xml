@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8470</ObservationId>
+  <MediaId>96036</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>christophe girod</Author>
+  <Date>2009-9-14</Date>
+  <Location>St JEan de Vedas</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>5622</ObservationId2014>
+  <ImageId2014>3983</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12895</ObservationId>
+  <MediaId>59314</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>clemence bes</Author>
+  <Date>2008-6-28</Date>
+  <Location>Passy</Location>
+  <Latitude>45.9676</Latitude>
+  <Longitude>6.82144</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13484</ObservationId2014>
+  <ImageId2014>55080</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15375</ObservationId>
+  <MediaId>46007</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>8708</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Astrantia</Genus>
+  <Species>Astrantia major L.</Species>
+  <Author>ans gorter</Author>
+  <Date>2012-8-14</Date>
+  <Location>09 Montferrier</Location>
+  <Latitude>42.89542</Latitude>
+  <Longitude>1.79491</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

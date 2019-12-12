@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14707</ObservationId>
+  <MediaId>35713</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>francois meignant</Author>
+  <Date>2010-5-3</Date>
+  <Location>Villers-le-Rond</Location>
+  <Latitude>49.48179</Latitude>
+  <Longitude>5.46351</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6378</ObservationId2014>
+  <ImageId2014>17088</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

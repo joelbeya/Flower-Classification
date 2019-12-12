@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19466</ObservationId>
+  <MediaId>52169</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>691</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cirsium</Genus>
+  <Species>Cirsium vulgare (Savi) Ten.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2013-9-8</Date>
+  <Location>Le Péage-de-Roussillon</Location>
+  <Latitude>45.36017</Latitude>
+  <Longitude>4.76668</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14052</ObservationId2014>
+  <ImageId2014>29104</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

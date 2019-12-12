@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23961</ObservationId>
+  <MediaId>34678</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-6-29</Date>
+  <Location>Monze</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10505</ObservationId2014>
+  <ImageId2014>26786</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

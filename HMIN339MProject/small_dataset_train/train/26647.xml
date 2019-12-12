@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24918</ObservationId>
+  <MediaId>26647</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4353</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula vulgaris Huds.</Species>
+  <Author>william marchand</Author>
+  <Date>2013-4-7</Date>
+  <Location>Angers</Location>
+  <Latitude>47.48355</Latitude>
+  <Longitude>-0.60101</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13490</ObservationId2014>
+  <ImageId2014>46076</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

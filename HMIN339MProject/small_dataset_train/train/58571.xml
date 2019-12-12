@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32365</ObservationId>
+  <MediaId>58571</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>michel sourioux</Author>
+  <Date>2012-4-29</Date>
+  <Location>Saint-Julien-le-Vendômois</Location>
+  <Latitude>45.42867</Latitude>
+  <Longitude>1.33201</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3578</ObservationId2014>
+  <ImageId2014>60697</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9370</ObservationId>
+  <MediaId>62833</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>john de vos</Author>
+  <Date>2010-7-11</Date>
+  <Location>Saint-Mathieu-de-Tréviers</Location>
+  <Latitude>43.76818</Latitude>
+  <Longitude>3.84788</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15149</ObservationId2014>
+  <ImageId2014>52172</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

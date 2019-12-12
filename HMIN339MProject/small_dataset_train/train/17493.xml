@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2887</ObservationId>
+  <MediaId>17493</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4353</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula vulgaris Huds.</Species>
+  <Author>marie portas</Author>
+  <Date>2012-2-4</Date>
+  <Location>Lannilis</Location>
+  <Latitude>48.57012</Latitude>
+  <Longitude>-4.52156</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9183</ObservationId2014>
+  <ImageId2014>5135</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15197</ObservationId>
+  <MediaId>60199</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4460</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone hepatica L.</Species>
+  <Author>barbara</Author>
+  <Date>2014-3-2</Date>
+  <Location>Carros</Location>
+  <Latitude>43.77824</Latitude>
+  <Longitude>7.18229</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

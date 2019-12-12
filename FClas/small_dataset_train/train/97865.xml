@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23789</ObservationId>
+  <MediaId>97865</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2012-7-27</Date>
+  <Location>Marseille</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16854</ObservationId2014>
+  <ImageId2014>28135</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16183</ObservationId>
+  <MediaId>69737</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2012-8-28</Date>
+  <Location>Vert-le-Petit</Location>
+  <Latitude>48.84401</Latitude>
+  <Longitude>2.35995</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12291</ObservationId2014>
+  <ImageId2014>52548</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

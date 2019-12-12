@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4855</ObservationId>
+  <MediaId>10823</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-6-7</Date>
+  <Location>Planfoy</Location>
+  <Latitude>45.40556</Latitude>
+  <Longitude>4.43139</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>6450</ObservationId>
+  <MediaId>38015</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>691</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cirsium</Genus>
+  <Species>Cirsium vulgare (Savi) Ten.</Species>
+  <Author>jean-claude ernewein</Author>
+  <Date>2011-8-6</Date>
+  <Location>Châlette-sur-Loing</Location>
+  <Latitude>48.02839</Latitude>
+  <Longitude>2.73027</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4474</ObservationId2014>
+  <ImageId2014>59738</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

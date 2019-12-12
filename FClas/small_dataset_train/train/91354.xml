@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25803</ObservationId>
+  <MediaId>91354</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>daniel barthelemy</Author>
+  <Date>2013-6-22</Date>
+  <Location>Conques</Location>
+  <Latitude>44.59933</Latitude>
+  <Longitude>2.39783</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8483</ObservationId2014>
+  <ImageId2014>40775</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

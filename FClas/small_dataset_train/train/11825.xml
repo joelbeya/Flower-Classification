@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5939</ObservationId>
+  <MediaId>11825</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>augustin roche</Author>
+  <Date>2005-8-25</Date>
+  <Location />
+  <Latitude>43.99817</Latitude>
+  <Longitude>5.16898</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2916</ObservationId2014>
+  <ImageId2014>24366</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

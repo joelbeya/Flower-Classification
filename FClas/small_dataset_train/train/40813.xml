@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31591</ObservationId>
+  <MediaId>40813</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-7-16</Date>
+  <Location>Brains-sur-Gée</Location>
+  <Latitude>48.00949</Latitude>
+  <Longitude>-0.02399</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>18301</ObservationId2014>
+  <ImageId2014>41446</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

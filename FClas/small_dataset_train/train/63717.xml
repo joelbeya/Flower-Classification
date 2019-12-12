@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41595</ObservationId>
+  <MediaId>63717</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>jean-francois molino</Author>
+  <Date>2014-5-1</Date>
+  <Location>Roqueredonde</Location>
+  <Latitude>43.7718</Latitude>
+  <Longitude>3.23241</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

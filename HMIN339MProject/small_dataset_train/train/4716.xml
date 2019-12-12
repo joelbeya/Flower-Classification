@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>150</ObservationId>
+  <MediaId>4716</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>alain bigou</Author>
+  <Date>2005-3-31</Date>
+  <Location>Montbel</Location>
+  <Latitude>42.96056</Latitude>
+  <Longitude>2.00058</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

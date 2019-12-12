@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>33413</ObservationId>
+  <MediaId>82905</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>32201</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys virescens Philippe</Species>
+  <Author>paul fabre</Author>
+  <Date>2011-4-17</Date>
+  <Location>Gravières</Location>
+  <Latitude>44.409</Latitude>
+  <Longitude>4.10373</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7154</ObservationId2014>
+  <ImageId2014>23343</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

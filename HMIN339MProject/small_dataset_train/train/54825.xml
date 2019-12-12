@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2582</ObservationId>
+  <MediaId>54825</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>cristina corti</Author>
+  <Date>2013-3-29</Date>
+  <Location />
+  <Latitude>45.76381</Latitude>
+  <Longitude>9.23546</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15313</ObservationId2014>
+  <ImageId2014>39610</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

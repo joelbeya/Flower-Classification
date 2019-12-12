@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24018</ObservationId>
+  <MediaId>107276</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2007-5-12</Date>
+  <Location>Saint-Martin-de-l'Arçon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6787</ObservationId2014>
+  <ImageId2014>60556</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

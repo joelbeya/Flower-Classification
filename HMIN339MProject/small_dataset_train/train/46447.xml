@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>6158</ObservationId>
+  <MediaId>46447</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>julien barataud</Author>
+  <Date>2008-6-26</Date>
+  <Location>Versols-et-Lapeyre</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6853</ObservationId2014>
+  <ImageId2014>13957</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

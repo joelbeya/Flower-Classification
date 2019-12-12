@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2617</ObservationId>
+  <MediaId>99269</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-7-16</Date>
+  <Location>Coulans-sur-Gée</Location>
+  <Latitude>48.0179</Latitude>
+  <Longitude>0.00477</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>987</ObservationId2014>
+  <ImageId2014>55531</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

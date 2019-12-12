@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4095</ObservationId>
+  <MediaId>57003</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>mathieu sinet</Author>
+  <Date>1800-1-1</Date>
+  <Location>Roquecourbe</Location>
+  <Latitude>43.6478</Latitude>
+  <Longitude>2.28194</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2570</ObservationId2014>
+  <ImageId2014>48069</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

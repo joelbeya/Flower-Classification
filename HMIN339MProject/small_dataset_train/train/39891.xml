@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25912</ObservationId>
+  <MediaId>39891</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>paul fabre</Author>
+  <Date>2012-4-8</Date>
+  <Location>Les Assions</Location>
+  <Latitude>44.41756</Latitude>
+  <Longitude>4.15491</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5344</ObservationId2014>
+  <ImageId2014>34089</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

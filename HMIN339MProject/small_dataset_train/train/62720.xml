@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16971</ObservationId>
+  <MediaId>62720</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>9930</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis helleborine (L.) Crantz</Species>
+  <Author>herve goeau</Author>
+  <Date>2014-7-14</Date>
+  <Location>Noisy-sur-École</Location>
+  <Latitude>48.37232</Latitude>
+  <Longitude>2.55627</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

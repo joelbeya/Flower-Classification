@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9943</ObservationId>
+  <MediaId>45865</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>9930</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis helleborine (L.) Crantz</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-6-13</Date>
+  <Location>Montferrier-sur-Lez</Location>
+  <Latitude>43.65753</Latitude>
+  <Longitude>3.86485</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15687</ObservationId2014>
+  <ImageId2014>40118</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

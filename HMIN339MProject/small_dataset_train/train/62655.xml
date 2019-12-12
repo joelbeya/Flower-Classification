@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20763</ObservationId>
+  <MediaId>62655</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2011-7-20</Date>
+  <Location>Bramans</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5072</ObservationId2014>
+  <ImageId2014>4489</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

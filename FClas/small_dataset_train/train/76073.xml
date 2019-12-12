@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4874</ObservationId>
+  <MediaId>76073</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>andre merle</Author>
+  <Date>2012-9-2</Date>
+  <Location>La Motte-d\\\'Aveillans</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4887</ObservationId2014>
+  <ImageId2014>59807</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

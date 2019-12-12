@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31758</ObservationId>
+  <MediaId>104062</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6564</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Serapias</Genus>
+  <Species>Serapias vomeracea (Burm.f.) Briq.</Species>
+  <Author>florent beck</Author>
+  <Date>2013-6-15</Date>
+  <Location>Roques</Location>
+  <Latitude>43.51028</Latitude>
+  <Longitude>1.37722</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13170</ObservationId2014>
+  <ImageId2014>23752</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

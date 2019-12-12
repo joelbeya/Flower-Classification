@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32752</ObservationId>
+  <MediaId>110094</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2009-5-5</Date>
+  <Location>Saint-Hostien</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6557</ObservationId2014>
+  <ImageId2014>42869</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20580</ObservationId>
+  <MediaId>6546</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>claire sutter</Author>
+  <Date>2009-6-20</Date>
+  <Location>Nordheim</Location>
+  <Latitude>48.64292</Latitude>
+  <Longitude>7.47281</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8593</ObservationId2014>
+  <ImageId2014>33084</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

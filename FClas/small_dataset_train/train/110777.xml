@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4537</ObservationId>
+  <MediaId>110777</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>michel pansiot</Author>
+  <Date>2008-8-2</Date>
+  <Location>Saou</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11824</ObservationId2014>
+  <ImageId2014>24191</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

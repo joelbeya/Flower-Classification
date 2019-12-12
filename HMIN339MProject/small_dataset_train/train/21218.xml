@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>10208</ObservationId>
+  <MediaId>21218</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2014-8-6</Date>
+  <Location>Artigues</Location>
+  <Latitude>42.67632</Latitude>
+  <Longitude>2.03132</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

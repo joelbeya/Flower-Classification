@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3917</ObservationId>
+  <MediaId>7606</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2008-9-25</Date>
+  <Location>Limousis</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6620</ObservationId2014>
+  <ImageId2014>43973</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7243</ObservationId>
+  <MediaId>42307</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2006-5-19</Date>
+  <Location>L'Île-d'Olonne</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15571</ObservationId2014>
+  <ImageId2014>43827</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4642</ObservationId>
+  <MediaId>107266</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>christophe girod</Author>
+  <Date>2007-6-9</Date>
+  <Location>Marseillan (Vassal)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>14945</ObservationId2014>
+  <ImageId2014>17994</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

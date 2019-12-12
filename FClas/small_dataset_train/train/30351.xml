@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17690</ObservationId>
+  <MediaId>30351</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>catherine lenne</Author>
+  <Date>2011-7-16</Date>
+  <Location>saint-genès-champanelle</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9185</ObservationId2014>
+  <ImageId2014>15984</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

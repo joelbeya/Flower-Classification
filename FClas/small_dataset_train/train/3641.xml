@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20532</ObservationId>
+  <MediaId>3641</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>marc fourrier</Author>
+  <Date>2011-6-13</Date>
+  <Location>Vernon</Location>
+  <Latitude>49.09371</Latitude>
+  <Longitude>1.49817</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17694</ObservationId2014>
+  <ImageId2014>12196</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3070</ObservationId>
+  <MediaId>69091</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>cristina corti</Author>
+  <Date>2013-3-29</Date>
+  <Location />
+  <Latitude>45.76405</Latitude>
+  <Longitude>9.23533</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6501</ObservationId2014>
+  <ImageId2014>4265</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29239</ObservationId>
+  <MediaId>85734</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>john de vos</Author>
+  <Date>2012-6-9</Date>
+  <Location>Rouet</Location>
+  <Latitude>43.8227</Latitude>
+  <Longitude>3.79779</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13178</ObservationId2014>
+  <ImageId2014>14314</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

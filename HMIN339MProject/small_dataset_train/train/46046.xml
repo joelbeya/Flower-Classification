@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39780</ObservationId>
+  <MediaId>46046</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>michel demares</Author>
+  <Date>2010-3-18</Date>
+  <Location>Toulon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2715</ObservationId2014>
+  <ImageId2014>32705</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

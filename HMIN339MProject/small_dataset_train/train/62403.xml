@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>18747</ObservationId>
+  <MediaId>62403</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6415</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis anthropophora (L.) All.</Species>
+  <Author>errol vela</Author>
+  <Date>2014-4-11</Date>
+  <Location>Sidi Aich, ALGERIE</Location>
+  <Latitude>36.6026</Latitude>
+  <Longitude>4.69448</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

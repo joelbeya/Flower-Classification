@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38719</ObservationId>
+  <MediaId>64886</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4369</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula veris L.</Species>
+  <Author>hugues tinguy</Author>
+  <Date>2012-3-17</Date>
+  <Location>Saint-Hippolyte</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13150</ObservationId2014>
+  <ImageId2014>59007</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

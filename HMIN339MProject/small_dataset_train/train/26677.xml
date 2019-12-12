@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8999</ObservationId>
+  <MediaId>26677</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2013-5-4</Date>
+  <Location>Villeneuve-lès-Avignon</Location>
+  <Latitude>43.97727</Latitude>
+  <Longitude>4.77638</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17667</ObservationId2014>
+  <ImageId2014>1874</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

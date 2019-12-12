@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23393</ObservationId>
+  <MediaId>17185</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6564</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Serapias</Genus>
+  <Species>Serapias vomeracea (Burm.f.) Briq.</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2013-4-22</Date>
+  <Location>Roquebrune-sur-Argens</Location>
+  <Latitude>43.44306</Latitude>
+  <Longitude>6.64519</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14963</ObservationId2014>
+  <ImageId2014>1769</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17902</ObservationId>
+  <MediaId>17801</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6448</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis atrorubens (Hoffm.) Besser</Species>
+  <Author>john de vos</Author>
+  <Date>2011-7-28</Date>
+  <Location>Mont-Saxonnex</Location>
+  <Latitude>46.0237</Latitude>
+  <Longitude>6.49125</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15087</ObservationId2014>
+  <ImageId2014>38972</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

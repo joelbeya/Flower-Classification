@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1833</ObservationId>
+  <MediaId>40769</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2011-10-11</Date>
+  <Location>Olonne-sur-Mer</Location>
+  <Latitude>46.55203</Latitude>
+  <Longitude>-1.8319</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>8732</ObservationId2014>
+  <ImageId2014>35323</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

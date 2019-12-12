@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28554</ObservationId>
+  <MediaId>92962</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>christophe girod</Author>
+  <Date>2003-6-4</Date>
+  <Location>Gruissan (Puech Redon) (11)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>19391</ObservationId2014>
+  <ImageId2014>4832</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

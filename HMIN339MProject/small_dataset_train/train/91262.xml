@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15309</ObservationId>
+  <MediaId>91262</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>mathieu sinet</Author>
+  <Date>1800-1-1</Date>
+  <Location>Lacrouzette</Location>
+  <Latitude>43.66198</Latitude>
+  <Longitude>2.37233</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

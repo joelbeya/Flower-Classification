@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9672</ObservationId>
+  <MediaId>32233</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>francis vayeur</Author>
+  <Date>2011-4-17</Date>
+  <Location>Haumont-près-Samogneux</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>12652</ObservationId2014>
+  <ImageId2014>57973</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

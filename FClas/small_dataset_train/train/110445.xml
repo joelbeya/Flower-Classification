@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13299</ObservationId>
+  <MediaId>110445</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>patrice giraudeau</Author>
+  <Date>2014-5-18</Date>
+  <Location>Joncels</Location>
+  <Latitude>43.78212</Latitude>
+  <Longitude>3.16469</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

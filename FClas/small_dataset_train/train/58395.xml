@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29143</ObservationId>
+  <MediaId>58395</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>30491</ClassId>
+  <Family>Violaceae</Family>
+  <Genus>Viola</Genus>
+  <Species>Viola tricolor L.</Species>
+  <Author>martin serre</Author>
+  <Date>2012-3-29</Date>
+  <Location>Indre</Location>
+  <Latitude>47.19996</Latitude>
+  <Longitude>-1.68917</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2027</ObservationId2014>
+  <ImageId2014>47758</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

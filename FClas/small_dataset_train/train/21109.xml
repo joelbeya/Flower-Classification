@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13933</ObservationId>
+  <MediaId>21109</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4369</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula veris L.</Species>
+  <Author>nicolas sennavoine</Author>
+  <Date>2013-4-9</Date>
+  <Location>Saint-André-du-Bois</Location>
+  <Latitude>44.61654</Latitude>
+  <Longitude>-0.1711</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8056</ObservationId2014>
+  <ImageId2014>31496</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

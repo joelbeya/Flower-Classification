@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9064</ObservationId>
+  <MediaId>80560</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>paul fabre</Author>
+  <Date>2013-7-18</Date>
+  <Location>Gravières</Location>
+  <Latitude>44.42007</Latitude>
+  <Longitude>4.06231</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12529</ObservationId2014>
+  <ImageId2014>55478</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

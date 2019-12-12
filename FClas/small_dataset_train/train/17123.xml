@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32776</ObservationId>
+  <MediaId>17123</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6415</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis anthropophora (L.) All.</Species>
+  <Author>didier gachon</Author>
+  <Date>2013-5-29</Date>
+  <Location />
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5352</ObservationId2014>
+  <ImageId2014>16473</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

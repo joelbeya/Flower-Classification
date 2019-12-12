@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7123</ObservationId>
+  <MediaId>108968</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>perregaux nicole</Author>
+  <Date>2013-7-6</Date>
+  <Location>Malval</Location>
+  <Latitude>46.21094</Latitude>
+  <Longitude>5.98941</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16058</ObservationId2014>
+  <ImageId2014>5587</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

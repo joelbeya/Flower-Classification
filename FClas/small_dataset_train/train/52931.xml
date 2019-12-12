@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20892</ObservationId>
+  <MediaId>52931</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>jean-pascal milcent</Author>
+  <Date>2010-5-3</Date>
+  <Location>Prades-le-Lez</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4321</ObservationId2014>
+  <ImageId2014>38264</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20820</ObservationId>
+  <MediaId>76156</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-5-14</Date>
+  <Location>Bréau-et-Salagosse</Location>
+  <Latitude>44.02889</Latitude>
+  <Longitude>3.56944</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>485</ObservationId2014>
+  <ImageId2014>20840</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

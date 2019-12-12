@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4550</ObservationId>
+  <MediaId>65681</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4369</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula veris L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-4-1</Date>
+  <Location>Vienne</Location>
+  <Latitude>48.84187</Latitude>
+  <Longitude>2.22709</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15865</ObservationId2014>
+  <ImageId2014>1804</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

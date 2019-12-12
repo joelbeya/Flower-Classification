@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14111</ObservationId>
+  <MediaId>65018</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4353</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula vulgaris Huds.</Species>
+  <Author>laetitia goeau</Author>
+  <Date>2013-3-16</Date>
+  <Location>Sainte-Geneviève-des-Bois</Location>
+  <Latitude>48.64667</Latitude>
+  <Longitude>2.31733</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1450</ObservationId2014>
+  <ImageId2014>10897</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

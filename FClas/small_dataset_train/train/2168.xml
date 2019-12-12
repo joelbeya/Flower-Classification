@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>30101</ObservationId>
+  <MediaId>2168</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30491</ClassId>
+  <Family>Violaceae</Family>
+  <Genus>Viola</Genus>
+  <Species>Viola tricolor L.</Species>
+  <Author>claude figureau</Author>
+  <Date>2006-6-28</Date>
+  <Location>Cirque de Gavarnie</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4694</ObservationId2014>
+  <ImageId2014>33978</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

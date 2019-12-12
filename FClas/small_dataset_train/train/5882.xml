@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23145</ObservationId>
+  <MediaId>5882</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-6-20</Date>
+  <Location>Neuville-sur-Sarthe</Location>
+  <Latitude>48.07604</Latitude>
+  <Longitude>0.21445</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14300</ObservationId2014>
+  <ImageId2014>60431</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

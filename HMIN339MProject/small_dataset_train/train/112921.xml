@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31128</ObservationId>
+  <MediaId>112921</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>nordine mimouni</Author>
+  <Date>2013-5-2</Date>
+  <Location />
+  <Latitude>43.09472</Latitude>
+  <Longitude>2.40292</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16548</ObservationId2014>
+  <ImageId2014>45772</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>30535</ObservationId>
+  <MediaId>61770</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2006-6-9</Date>
+  <Location>Gresse-en-Vercors</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15642</ObservationId2014>
+  <ImageId2014>11030</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

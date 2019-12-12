@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7294</ObservationId>
+  <MediaId>53670</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>valerie bruneau-querey</Author>
+  <Date>2007-6-10</Date>
+  <Location>Secqueville-en-Bessin</Location>
+  <Latitude>49.23306</Latitude>
+  <Longitude>-0.51722</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>58</ObservationId2014>
+  <ImageId2014>4827</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

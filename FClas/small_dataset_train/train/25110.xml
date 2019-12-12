@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4963</ObservationId>
+  <MediaId>25110</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>isabelle de battisti</Author>
+  <Date>2009-4-7</Date>
+  <Location>Saint-Mathieu-de-Tréviers</Location>
+  <Latitude>43.75448</Latitude>
+  <Longitude>3.8744</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17807</ObservationId2014>
+  <ImageId2014>56900</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22234</ObservationId>
+  <MediaId>71908</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2014-4-17</Date>
+  <Location>Sainte-Geneviève-des-Bois</Location>
+  <Latitude>48.64744</Latitude>
+  <Longitude>2.30694</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

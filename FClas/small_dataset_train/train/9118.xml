@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20546</ObservationId>
+  <MediaId>9118</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>helene labalte</Author>
+  <Date>2010-3-31</Date>
+  <Location>Saint-Georges-d\'Oléron</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>746</ObservationId2014>
+  <ImageId2014>6496</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

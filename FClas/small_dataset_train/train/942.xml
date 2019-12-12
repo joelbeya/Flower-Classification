@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22338</ObservationId>
+  <MediaId>942</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>remi tournebize</Author>
+  <Date>2009-4-1</Date>
+  <Location>Prémillieu</Location>
+  <Latitude>45.88207</Latitude>
+  <Longitude>5.57618</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8620</ObservationId2014>
+  <ImageId2014>24145</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28368</ObservationId>
+  <MediaId>79288</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>691</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cirsium</Genus>
+  <Species>Cirsium vulgare (Savi) Ten.</Species>
+  <Author>claire felloni</Author>
+  <Date>2011-11-19</Date>
+  <Location>Sargé-lès-le-Mans</Location>
+  <Latitude>48.04195</Latitude>
+  <Longitude>0.21968</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8891</ObservationId2014>
+  <ImageId2014>16165</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

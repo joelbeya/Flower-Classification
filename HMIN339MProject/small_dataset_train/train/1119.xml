@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14549</ObservationId>
+  <MediaId>1119</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>pierre bonnet</Author>
+  <Date>2013-11-26</Date>
+  <Location>Montpellier</Location>
+  <Latitude>43.59765</Latitude>
+  <Longitude>3.89919</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4203</ObservationId2014>
+  <ImageId2014>26191</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

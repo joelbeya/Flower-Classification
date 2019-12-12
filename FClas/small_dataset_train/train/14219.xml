@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32581</ObservationId>
+  <MediaId>14219</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>151</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Daucus</Genus>
+  <Species>Daucus carota L.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2013-8-2</Date>
+  <Location>Douarnenez</Location>
+  <Latitude>48.10735</Latitude>
+  <Longitude>-4.37878</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1982</ObservationId2014>
+  <ImageId2014>44499</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

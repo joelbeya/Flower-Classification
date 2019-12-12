@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32849</ObservationId>
+  <MediaId>66201</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2009-8-19</Date>
+  <Location>Mariol</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>4412</ObservationId2014>
+  <ImageId2014>46611</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27953</ObservationId>
+  <MediaId>4168</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2005-6-12</Date>
+  <Location>Eyne</Location>
+  <Latitude>42.89626</Latitude>
+  <Longitude>0.06362</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>10108</ObservationId2014>
+  <ImageId2014>51503</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

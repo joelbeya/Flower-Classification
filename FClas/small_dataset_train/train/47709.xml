@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39669</ObservationId>
+  <MediaId>47709</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>marie portas</Author>
+  <Date>2012-7-3</Date>
+  <Location>Les Estables</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10264</ObservationId2014>
+  <ImageId2014>34105</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

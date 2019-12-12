@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24491</ObservationId>
+  <MediaId>82460</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30491</ClassId>
+  <Family>Violaceae</Family>
+  <Genus>Viola</Genus>
+  <Species>Viola tricolor L.</Species>
+  <Author>gisele arliguie</Author>
+  <Date>2012-5-27</Date>
+  <Location>Saint-Sauves-d'Auvergne</Location>
+  <Latitude>45.60724</Latitude>
+  <Longitude>2.68788</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2541</ObservationId2014>
+  <ImageId2014>816</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

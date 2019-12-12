@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27177</ObservationId>
+  <MediaId>6873</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>christophe chauvigne</Author>
+  <Date>2011-6-2</Date>
+  <Location>Panzoult</Location>
+  <Latitude>47.1594</Latitude>
+  <Longitude>0.4143</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6226</ObservationId2014>
+  <ImageId2014>59228</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

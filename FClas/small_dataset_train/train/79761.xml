@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26383</ObservationId>
+  <MediaId>79761</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-5-23</Date>
+  <Location>Malons-et-Elze</Location>
+  <Latitude>44.43114</Latitude>
+  <Longitude>3.98842</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3238</ObservationId2014>
+  <ImageId2014>17164</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

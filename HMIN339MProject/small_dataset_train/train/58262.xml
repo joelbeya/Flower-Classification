@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20083</ObservationId>
+  <MediaId>58262</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>emmanuel andres</Author>
+  <Date>2012-7-22</Date>
+  <Location>Hochfelden</Location>
+  <Latitude>48.74849</Latitude>
+  <Longitude>7.56625</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1614</ObservationId2014>
+  <ImageId2014>38772</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

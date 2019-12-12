@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>37180</ObservationId>
+  <MediaId>68252</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>julien barataud</Author>
+  <Date>2007-4-21</Date>
+  <Location>Villesèque-des-Corbières</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17354</ObservationId2014>
+  <ImageId2014>54282</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

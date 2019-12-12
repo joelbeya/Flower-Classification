@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27395</ObservationId>
+  <MediaId>44859</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>claude figureau</Author>
+  <Date>2006-6-3</Date>
+  <Location>Olone sur mer l'Aubraie</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6008</ObservationId2014>
+  <ImageId2014>26210</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

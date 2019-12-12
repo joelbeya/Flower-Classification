@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32446</ObservationId>
+  <MediaId>31393</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>6448</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis atrorubens (Hoffm.) Besser</Species>
+  <Author>Unknown108</Author>
+  <Date>2009-7-29</Date>
+  <Location>Suc-et-Sentenac</Location>
+  <Latitude>42.78238</Latitude>
+  <Longitude>1.49456</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>18642</ObservationId2014>
+  <ImageId2014>28520</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

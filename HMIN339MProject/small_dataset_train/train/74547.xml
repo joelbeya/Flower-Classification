@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7478</ObservationId>
+  <MediaId>74547</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>967</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Hypochaeris</Genus>
+  <Species>Hypochaeris radicata L.</Species>
+  <Author>marie portas</Author>
+  <Date>2014-8-3</Date>
+  <Location>Gironville-sur-Essonne</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

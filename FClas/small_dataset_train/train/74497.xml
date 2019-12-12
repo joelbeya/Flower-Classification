@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35552</ObservationId>
+  <MediaId>74497</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>julien barataud</Author>
+  <Date>2007-4-7</Date>
+  <Location>Opoul-Périllos</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17956</ObservationId2014>
+  <ImageId2014>20452</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

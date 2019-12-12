@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3619</ObservationId>
+  <MediaId>106864</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2006-6-23</Date>
+  <Location>Olonne-sur-Mer</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>14217</ObservationId2014>
+  <ImageId2014>8305</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

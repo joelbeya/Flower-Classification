@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20735</ObservationId>
+  <MediaId>56717</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>esnault</Author>
+  <Date>2013-3-10</Date>
+  <Location>Marseille</Location>
+  <Latitude>43.272</Latitude>
+  <Longitude>5.446</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1269</ObservationId2014>
+  <ImageId2014>51976</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

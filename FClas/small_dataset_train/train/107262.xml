@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31974</ObservationId>
+  <MediaId>107262</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>jacques vincent</Author>
+  <Date>2013-6-12</Date>
+  <Location />
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6540</ObservationId2014>
+  <ImageId2014>29671</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

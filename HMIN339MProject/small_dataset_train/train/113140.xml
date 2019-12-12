@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40308</ObservationId>
+  <MediaId>113140</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>8708</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Astrantia</Genus>
+  <Species>Astrantia major L.</Species>
+  <Author>francoise peyrissat</Author>
+  <Date>2012-8-26</Date>
+  <Location>Anzat-le-Luguet</Location>
+  <Latitude>45.32644</Latitude>
+  <Longitude>3.01789</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

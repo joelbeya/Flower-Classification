@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19559</ObservationId>
+  <MediaId>90612</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>jean-paul hugbart</Author>
+  <Date>1800-1-1</Date>
+  <Location>Lux</Location>
+  <Latitude>46.75936</Latitude>
+  <Longitude>4.85591</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

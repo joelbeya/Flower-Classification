@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15305</ObservationId>
+  <MediaId>75848</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>charlyg57</Author>
+  <Date>2014-7-11</Date>
+  <Location>Amnéville</Location>
+  <Latitude>49.2532</Latitude>
+  <Longitude>6.13782</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9745</ObservationId>
+  <MediaId>1897</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>thierry senechal-chevallier</Author>
+  <Date>2012-6-11</Date>
+  <Location>La Vendue-Mignot</Location>
+  <Latitude>48.14451</Latitude>
+  <Longitude>4.11368</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18324</ObservationId2014>
+  <ImageId2014>23301</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

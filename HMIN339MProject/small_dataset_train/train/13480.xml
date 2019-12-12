@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41664</ObservationId>
+  <MediaId>13480</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>alexis joly</Author>
+  <Date>2013-5-14</Date>
+  <Location>Saint-Georges-d'Orques</Location>
+  <Latitude>43.60839</Latitude>
+  <Longitude>3.79074</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9011</ObservationId2014>
+  <ImageId2014>6164</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

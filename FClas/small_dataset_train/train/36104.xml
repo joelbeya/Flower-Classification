@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38951</ObservationId>
+  <MediaId>36104</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>patricia destrade</Author>
+  <Date>2011-7-25</Date>
+  <Location>Barèges</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6927</ObservationId2014>
+  <ImageId2014>7222</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16050</ObservationId>
+  <MediaId>61993</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>liliane pessotto</Author>
+  <Date>2012-3-28</Date>
+  <Location>Caussade</Location>
+  <Latitude>44.17365</Latitude>
+  <Longitude>1.5383</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9758</ObservationId2014>
+  <ImageId2014>9355</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

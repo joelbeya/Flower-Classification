@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13588</ObservationId>
+  <MediaId>109289</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>Unknown543</Author>
+  <Date>2013-4-20</Date>
+  <Location>Kwaadmechelen</Location>
+  <Latitude>51.10383</Latitude>
+  <Longitude>5.15967</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5931</ObservationId2014>
+  <ImageId2014>1263</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

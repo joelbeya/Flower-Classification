@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22822</ObservationId>
+  <MediaId>74456</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>michael falkowski</Author>
+  <Date>2011-6-4</Date>
+  <Location>Aiserey</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>396</ObservationId2014>
+  <ImageId2014>53123</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

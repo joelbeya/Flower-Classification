@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>939</ObservationId>
+  <MediaId>22944</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2011-5-22</Date>
+  <Location>Abbéville-la-Rivière</Location>
+  <Latitude>48.34494</Latitude>
+  <Longitude>2.16313</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2176</ObservationId2014>
+  <ImageId2014>1682</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

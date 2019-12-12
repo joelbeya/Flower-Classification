@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14150</ObservationId>
+  <MediaId>63696</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>5148</ClassId>
+  <Family>Salicaceae</Family>
+  <Genus>Salix</Genus>
+  <Species>Salix caprea L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2012-3-31</Date>
+  <Location>Sainte-Geneviève-des-Bois</Location>
+  <Latitude>48.8567</Latitude>
+  <Longitude>2.24104</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>12946</ObservationId2014>
+  <ImageId2014>9660</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

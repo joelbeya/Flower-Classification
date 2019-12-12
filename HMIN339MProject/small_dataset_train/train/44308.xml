@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8723</ObservationId>
+  <MediaId>44308</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2005-5-21</Date>
+  <Location>Cambo-les-Bains</Location>
+  <Latitude>43.37548</Latitude>
+  <Longitude>-1.39868</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15272</ObservationId2014>
+  <ImageId2014>2850</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

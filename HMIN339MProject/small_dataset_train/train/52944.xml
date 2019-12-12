@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8623</ObservationId>
+  <MediaId>52944</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>gerard souche</Author>
+  <Date>2011-5-5</Date>
+  <Location>Buzignargues</Location>
+  <Latitude>43.77081</Latitude>
+  <Longitude>4.00256</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1731</ObservationId2014>
+  <ImageId2014>31309</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

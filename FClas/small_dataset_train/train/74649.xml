@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25687</ObservationId>
+  <MediaId>74649</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>julien barataud</Author>
+  <Date>2007-4-22</Date>
+  <Location>Opoul-Périllos</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15279</ObservationId2014>
+  <ImageId2014>35315</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7597</ObservationId>
+  <MediaId>37817</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>ans gorter</Author>
+  <Date>2009-6-6</Date>
+  <Location>Molleville</Location>
+  <Latitude>43.3109</Latitude>
+  <Longitude>1.83465</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

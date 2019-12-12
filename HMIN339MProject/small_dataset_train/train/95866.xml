@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20691</ObservationId>
+  <MediaId>95866</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>Unknown185</Author>
+  <Date>2010-4-5</Date>
+  <Location>Cabrespine</Location>
+  <Latitude>43.36667</Latitude>
+  <Longitude>2.46667</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17962</ObservationId2014>
+  <ImageId2014>53076</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

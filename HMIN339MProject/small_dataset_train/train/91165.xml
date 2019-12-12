@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27989</ObservationId>
+  <MediaId>91165</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>julien barataud</Author>
+  <Date>2005-4-30</Date>
+  <Location>Saint-Étienne-aux-Clos</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1511</ObservationId2014>
+  <ImageId2014>23956</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

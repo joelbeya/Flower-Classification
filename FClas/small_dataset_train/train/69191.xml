@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26290</ObservationId>
+  <MediaId>69191</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>christophe girod</Author>
+  <Date>2007-4-9</Date>
+  <Location>Montblanc</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>8366</ObservationId2014>
+  <ImageId2014>44785</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

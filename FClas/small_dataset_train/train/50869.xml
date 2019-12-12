@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4573</ObservationId>
+  <MediaId>50869</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2009-4-22</Date>
+  <Location>Busset</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3486</ObservationId2014>
+  <ImageId2014>56539</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

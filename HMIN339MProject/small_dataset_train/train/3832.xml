@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1575</ObservationId>
+  <MediaId>3832</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>fabienne paire</Author>
+  <Date>2014-9-1</Date>
+  <Location>Optevoz</Location>
+  <Latitude>45.75334</Latitude>
+  <Longitude>5.33037</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

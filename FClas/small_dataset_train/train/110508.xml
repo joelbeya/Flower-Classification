@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28412</ObservationId>
+  <MediaId>110508</MediaId>
+  <Vote>2.67</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>claire felloni</Author>
+  <Date>2012-6-29</Date>
+  <Location>Bazoches-en-Dunois</Location>
+  <Latitude>48.12048</Latitude>
+  <Longitude>1.57235</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9007</ObservationId2014>
+  <ImageId2014>55743</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

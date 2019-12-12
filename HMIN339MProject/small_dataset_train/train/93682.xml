@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22962</ObservationId>
+  <MediaId>93682</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-7-21</Date>
+  <Location>Feugarolles</Location>
+  <Latitude>48.65283</Latitude>
+  <Longitude>2.31433</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3798</ObservationId2014>
+  <ImageId2014>59978</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28135</ObservationId>
+  <MediaId>15580</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-7-7</Date>
+  <Location>Aston</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>12615</ObservationId2014>
+  <ImageId2014>21709</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

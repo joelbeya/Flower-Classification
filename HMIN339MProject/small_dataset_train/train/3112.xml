@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26665</ObservationId>
+  <MediaId>3112</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8534</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aconitum</Genus>
+  <Species>Aconitum napellus L.</Species>
+  <Author>hubert daniel</Author>
+  <Date>2010-8-5</Date>
+  <Location>Mijanès</Location>
+  <Latitude>42.73167</Latitude>
+  <Longitude>2.05694</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6820</ObservationId2014>
+  <ImageId2014>56400</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20553</ObservationId>
+  <MediaId>7387</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>32201</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys virescens Philippe</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2008-4-29</Date>
+  <Location>Prades-le-Lez</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1138</ObservationId2014>
+  <ImageId2014>30087</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

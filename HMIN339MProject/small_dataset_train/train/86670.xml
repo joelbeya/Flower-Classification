@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21575</ObservationId>
+  <MediaId>86670</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>christophe bernier</Author>
+  <Date>2005-5-25</Date>
+  <Location>Payra-sur-l'Hers</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>616</ObservationId2014>
+  <ImageId2014>9549</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

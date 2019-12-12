@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12729</ObservationId>
+  <MediaId>39557</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>cedric rousseau</Author>
+  <Date>2012-4-20</Date>
+  <Location>Sorbais</Location>
+  <Latitude>49.92233</Latitude>
+  <Longitude>3.85444</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>14888</ObservationId2014>
+  <ImageId2014>19350</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

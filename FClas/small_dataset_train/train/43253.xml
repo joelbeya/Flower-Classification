@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12784</ObservationId>
+  <MediaId>43253</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>Unknown189</Author>
+  <Date>2013-4-28</Date>
+  <Location>Calvi</Location>
+  <Latitude>42.5655</Latitude>
+  <Longitude>8.75517</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8338</ObservationId2014>
+  <ImageId2014>60232</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

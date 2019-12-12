@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>30715</ObservationId>
+  <MediaId>40837</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>5148</ClassId>
+  <Family>Salicaceae</Family>
+  <Genus>Salix</Genus>
+  <Species>Salix caprea L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2014-4-14</Date>
+  <Location>Palaiseau</Location>
+  <Latitude>48.71297</Latitude>
+  <Longitude>2.20232</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

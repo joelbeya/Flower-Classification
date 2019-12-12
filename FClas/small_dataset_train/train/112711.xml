@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3011</ObservationId>
+  <MediaId>112711</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2008-4-13</Date>
+  <Location>Villemur-sur-Tarn</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>18860</ObservationId2014>
+  <ImageId2014>29551</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

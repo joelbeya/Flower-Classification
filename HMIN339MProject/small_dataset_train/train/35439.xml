@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5690</ObservationId>
+  <MediaId>35439</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2013-10-31</Date>
+  <Location>Candé-sur-Beuvron</Location>
+  <Latitude>47.5189</Latitude>
+  <Longitude>1.29383</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4458</ObservationId2014>
+  <ImageId2014>25272</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

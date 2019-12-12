@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31494</ObservationId>
+  <MediaId>77296</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>andre morin</Author>
+  <Date>2011-4-2</Date>
+  <Location>Villeurbanne</Location>
+  <Latitude>45.77152</Latitude>
+  <Longitude>4.87311</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2883</ObservationId2014>
+  <ImageId2014>51753</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7930</ObservationId>
+  <MediaId>54341</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>christophe chauvigne</Author>
+  <Date>2008-5-9</Date>
+  <Location>Beaumont-en-Véron</Location>
+  <Latitude>47.2</Latitude>
+  <Longitude>0.1833</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3140</ObservationId2014>
+  <ImageId2014>48963</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

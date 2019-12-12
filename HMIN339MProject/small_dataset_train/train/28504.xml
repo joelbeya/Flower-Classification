@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38778</ObservationId>
+  <MediaId>28504</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>jean-pascal milcent</Author>
+  <Date>2011-4-26</Date>
+  <Location>Quissac</Location>
+  <Latitude>43.9126</Latitude>
+  <Longitude>3.99004</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7047</ObservationId2014>
+  <ImageId2014>47621</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

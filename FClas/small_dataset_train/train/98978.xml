@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26042</ObservationId>
+  <MediaId>98978</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2006-6-9</Date>
+  <Location>Gresse-en-Vercors</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17954</ObservationId2014>
+  <ImageId2014>12520</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

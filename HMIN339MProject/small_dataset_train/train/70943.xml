@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2651</ObservationId>
+  <MediaId>70943</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-4-9</Date>
+  <Location>Le Muy</Location>
+  <Latitude>43.45818</Latitude>
+  <Longitude>6.59686</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13718</ObservationId2014>
+  <ImageId2014>47654</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

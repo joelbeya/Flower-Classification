@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35491</ObservationId>
+  <MediaId>70000</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6509</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys passionis Sennen</Species>
+  <Author>genevieve botti</Author>
+  <Date>2014-3-15</Date>
+  <Location>Tarascon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

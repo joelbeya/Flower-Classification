@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5202</ObservationId>
+  <MediaId>21790</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>pierre germaine</Author>
+  <Date>2014-4-27</Date>
+  <Location />
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26332</ObservationId>
+  <MediaId>25293</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>sebastien ramsay</Author>
+  <Date>2010-5-26</Date>
+  <Location>Revest-du-Bion</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8972</ObservationId2014>
+  <ImageId2014>40687</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

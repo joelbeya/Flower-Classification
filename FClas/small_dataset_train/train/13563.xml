@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9519</ObservationId>
+  <MediaId>13563</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>bertrand aucouturier</Author>
+  <Date>2011-4-27</Date>
+  <Location>Grand-Brassac</Location>
+  <Latitude>45.29231</Latitude>
+  <Longitude>0.46378</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5861</ObservationId2014>
+  <ImageId2014>35875</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

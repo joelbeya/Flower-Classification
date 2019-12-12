@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36220</ObservationId>
+  <MediaId>58415</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>jean-claude echardour</Author>
+  <Date>2010-6-26</Date>
+  <Location>Saffré</Location>
+  <Latitude>47.49689</Latitude>
+  <Longitude>-1.59442</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13210</ObservationId2014>
+  <ImageId2014>8922</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

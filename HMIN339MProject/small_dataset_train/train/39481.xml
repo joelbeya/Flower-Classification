@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>390</ObservationId>
+  <MediaId>39481</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>jean-pierre wisniewski</Author>
+  <Date>2010-6-18</Date>
+  <Location>Mionnay</Location>
+  <Latitude>45.89407</Latitude>
+  <Longitude>4.92514</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16121</ObservationId2014>
+  <ImageId2014>38937</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

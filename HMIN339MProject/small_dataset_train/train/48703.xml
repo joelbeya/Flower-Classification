@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2738</ObservationId>
+  <MediaId>48703</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>paul fabre</Author>
+  <Date>2013-4-6</Date>
+  <Location>Versoix</Location>
+  <Latitude>46.29257</Latitude>
+  <Longitude>6.13818</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13947</ObservationId2014>
+  <ImageId2014>33801</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

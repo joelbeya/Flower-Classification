@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23842</ObservationId>
+  <MediaId>6098</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>julien barataud</Author>
+  <Date>2007-5-10</Date>
+  <Location>Olette</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16847</ObservationId2014>
+  <ImageId2014>28333</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

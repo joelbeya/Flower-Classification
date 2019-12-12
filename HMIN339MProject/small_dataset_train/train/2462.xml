@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>732</ObservationId>
+  <MediaId>2462</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>bertrand chiffoleau</Author>
+  <Date>2011-4-11</Date>
+  <Location>Corcoué-sur-Logne</Location>
+  <Latitude>46.93894</Latitude>
+  <Longitude>-1.53405</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16321</ObservationId2014>
+  <ImageId2014>36134</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

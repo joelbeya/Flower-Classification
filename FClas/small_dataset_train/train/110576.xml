@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>33726</ObservationId>
+  <MediaId>110576</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>jame lagarrigue</Author>
+  <Date>2012-6-13</Date>
+  <Location>Cruviers-Lascours</Location>
+  <Latitude>43.89573</Latitude>
+  <Longitude>4.40784</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>81</ObservationId2014>
+  <ImageId2014>59114</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

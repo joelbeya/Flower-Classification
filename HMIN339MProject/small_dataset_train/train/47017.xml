@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24357</ObservationId>
+  <MediaId>47017</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>paul fabre</Author>
+  <Date>2009-6-8</Date>
+  <Location>Les Vans</Location>
+  <Latitude>44.39227</Latitude>
+  <Longitude>4.15629</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>19303</ObservationId2014>
+  <ImageId2014>21037</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

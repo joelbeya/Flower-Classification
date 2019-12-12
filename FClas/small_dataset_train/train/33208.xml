@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4992</ObservationId>
+  <MediaId>33208</MediaId>
+  <Vote>4.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>albert</Author>
+  <Date>2013-3-29</Date>
+  <Location>Paris</Location>
+  <Latitude>48.87247</Latitude>
+  <Longitude>2.3814</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11503</ObservationId2014>
+  <ImageId2014>56789</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3498</ObservationId>
+  <MediaId>59874</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>olivier iborra</Author>
+  <Date>2007-4-27</Date>
+  <Location>Blyes</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4464</ObservationId2014>
+  <ImageId2014>29132</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

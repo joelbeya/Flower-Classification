@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17750</ObservationId>
+  <MediaId>64182</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>chloe m</Author>
+  <Date>2014-8-31</Date>
+  <Location>Râches</Location>
+  <Latitude>50.63351</Latitude>
+  <Longitude>3.0467</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

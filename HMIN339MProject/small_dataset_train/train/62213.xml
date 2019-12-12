@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2847</ObservationId>
+  <MediaId>62213</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>francois bahuaud</Author>
+  <Date>2004-6-7</Date>
+  <Location>Oudon</Location>
+  <Latitude>47.34596</Latitude>
+  <Longitude>-1.29024</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18189</ObservationId2014>
+  <ImageId2014>38892</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

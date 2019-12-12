@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20036</ObservationId>
+  <MediaId>22983</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>matthieu gauvain</Author>
+  <Date>2012-6-17</Date>
+  <Location>Champagny-en-Vanoise</Location>
+  <Latitude>45.45428</Latitude>
+  <Longitude>6.76751</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6224</ObservationId2014>
+  <ImageId2014>47628</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

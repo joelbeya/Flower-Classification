@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25681</ObservationId>
+  <MediaId>80032</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-6-2</Date>
+  <Location>Sainte-Croix-en-Jarez</Location>
+  <Latitude>45.47722</Latitude>
+  <Longitude>4.61833</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18325</ObservationId2014>
+  <ImageId2014>35035</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

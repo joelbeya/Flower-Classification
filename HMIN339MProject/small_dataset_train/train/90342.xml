@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26733</ObservationId>
+  <MediaId>90342</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>claire sutter</Author>
+  <Date>2009-7-1</Date>
+  <Location>Hochfelden</Location>
+  <Latitude>48.74974</Latitude>
+  <Longitude>7.57799</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>518</ObservationId2014>
+  <ImageId2014>50011</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

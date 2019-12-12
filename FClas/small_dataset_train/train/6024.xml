@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39856</ObservationId>
+  <MediaId>6024</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>8534</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aconitum</Genus>
+  <Species>Aconitum napellus L.</Species>
+  <Author>andre merle</Author>
+  <Date>2012-9-2</Date>
+  <Location>Trient</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7072</ObservationId2014>
+  <ImageId2014>40738</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

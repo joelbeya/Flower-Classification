@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32456</ObservationId>
+  <MediaId>91340</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>caroline caillard-sourisseau</Author>
+  <Date>2013-6-24</Date>
+  <Location>Baud</Location>
+  <Latitude>47.88921</Latitude>
+  <Longitude>-3.01587</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8012</ObservationId2014>
+  <ImageId2014>45500</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

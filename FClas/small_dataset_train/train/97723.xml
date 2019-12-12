@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38590</ObservationId>
+  <MediaId>97723</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2008-5-7</Date>
+  <Location>Lauret</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15430</ObservationId2014>
+  <ImageId2014>30018</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

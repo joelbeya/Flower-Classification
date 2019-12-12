@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4335</ObservationId>
+  <MediaId>45506</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-6-5</Date>
+  <Location>Treschenu-Creyers</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5361</ObservationId2014>
+  <ImageId2014>15652</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28878</ObservationId>
+  <MediaId>110894</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>bernard ginesy</Author>
+  <Date>2011-4-14</Date>
+  <Location>Marseille</Location>
+  <Latitude>43.2293</Latitude>
+  <Longitude>5.39465</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2488</ObservationId2014>
+  <ImageId2014>40289</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

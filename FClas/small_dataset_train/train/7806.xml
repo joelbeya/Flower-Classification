@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20978</ObservationId>
+  <MediaId>7806</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>jean-joseph osty</Author>
+  <Date>2013-8-25</Date>
+  <Location>Camarès</Location>
+  <Latitude>43.80095</Latitude>
+  <Longitude>2.90896</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9623</ObservationId2014>
+  <ImageId2014>20860</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

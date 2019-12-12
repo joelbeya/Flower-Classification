@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>665</ObservationId>
+  <MediaId>60844</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>hugues haeffner</Author>
+  <Date>2013-4-28</Date>
+  <Location>Aillières-Beauvoir</Location>
+  <Latitude>48.40146</Latitude>
+  <Longitude>0.32049</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6687</ObservationId2014>
+  <ImageId2014>19987</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

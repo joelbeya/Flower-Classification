@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21902</ObservationId>
+  <MediaId>8380</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2012-5-12</Date>
+  <Location>Nans-les-Pins</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17615</ObservationId2014>
+  <ImageId2014>5657</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

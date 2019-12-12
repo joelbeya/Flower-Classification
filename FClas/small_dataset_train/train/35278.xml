@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1819</ObservationId>
+  <MediaId>35278</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>francoise negre</Author>
+  <Date>2009-6-14</Date>
+  <Location>Aspres-sur-Buëch</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>319</ObservationId2014>
+  <ImageId2014>38278</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

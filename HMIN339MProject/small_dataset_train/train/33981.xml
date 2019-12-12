@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23883</ObservationId>
+  <MediaId>33981</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2013-5-20</Date>
+  <Location>Roquefort-la-Bédoule</Location>
+  <Latitude>43.25041</Latitude>
+  <Longitude>5.64413</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>237</ObservationId2014>
+  <ImageId2014>57103</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

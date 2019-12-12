@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20635</ObservationId>
+  <MediaId>103914</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>pierre bonnet</Author>
+  <Date>2013-5-18</Date>
+  <Location>Fillols</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18728</ObservationId2014>
+  <ImageId2014>45297</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

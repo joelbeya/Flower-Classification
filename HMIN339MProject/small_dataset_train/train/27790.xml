@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38575</ObservationId>
+  <MediaId>27790</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>daniel barthelemy</Author>
+  <Date>2013-4-13</Date>
+  <Location>Puéchabon</Location>
+  <Latitude>43.71617</Latitude>
+  <Longitude>3.613</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15892</ObservationId2014>
+  <ImageId2014>29933</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

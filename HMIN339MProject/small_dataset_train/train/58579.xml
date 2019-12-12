@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35689</ObservationId>
+  <MediaId>58579</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>Unknown544</Author>
+  <Date>2010-8-1</Date>
+  <Location>Bugarach</Location>
+  <Latitude>42.88333</Latitude>
+  <Longitude>2.35</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17784</ObservationId2014>
+  <ImageId2014>28288</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

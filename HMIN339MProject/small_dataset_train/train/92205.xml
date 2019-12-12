@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>10388</ObservationId>
+  <MediaId>92205</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>julien barataud</Author>
+  <Date>2005-4-30</Date>
+  <Location>Saint-Étienne-aux-Clos</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>8569</ObservationId2014>
+  <ImageId2014>6506</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

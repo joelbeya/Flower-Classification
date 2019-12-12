@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25429</ObservationId>
+  <MediaId>78543</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-5-13</Date>
+  <Location>La Couvertoirade</Location>
+  <Latitude>43.84443</Latitude>
+  <Longitude>3.26981</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>12727</ObservationId2014>
+  <ImageId2014>29064</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

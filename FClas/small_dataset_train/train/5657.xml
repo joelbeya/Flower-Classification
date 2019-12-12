@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27629</ObservationId>
+  <MediaId>5657</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>5148</ClassId>
+  <Family>Salicaceae</Family>
+  <Genus>Salix</Genus>
+  <Species>Salix caprea L.</Species>
+  <Author>michel pourchet</Author>
+  <Date>2006-3-10</Date>
+  <Location>Champ-sur-Drac</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15978</ObservationId2014>
+  <ImageId2014>21180</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

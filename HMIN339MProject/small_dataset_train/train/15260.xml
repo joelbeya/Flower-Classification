@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4593</ObservationId>
+  <MediaId>15260</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>john de vos</Author>
+  <Date>2007-3-3</Date>
+  <Location>Prades-le-Lez</Location>
+  <Latitude>43.72937</Latitude>
+  <Longitude>3.8671</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>18285</ObservationId2014>
+  <ImageId2014>6669</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

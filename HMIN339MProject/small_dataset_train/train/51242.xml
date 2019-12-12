@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4967</ObservationId>
+  <MediaId>51242</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>julien champ</Author>
+  <Date>2013-5-24</Date>
+  <Location>Montpellier</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8174</ObservationId2014>
+  <ImageId2014>32148</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

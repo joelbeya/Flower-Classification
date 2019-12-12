@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27084</ObservationId>
+  <MediaId>22582</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8534</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aconitum</Genus>
+  <Species>Aconitum napellus L.</Species>
+  <Author>laurent petit</Author>
+  <Date>8-5-21</Date>
+  <Location>Occoches</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10878</ObservationId2014>
+  <ImageId2014>21219</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

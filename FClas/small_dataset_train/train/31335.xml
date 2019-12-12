@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8937</ObservationId>
+  <MediaId>31335</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>gabriel chapuis</Author>
+  <Date>2009-5-17</Date>
+  <Location>Balogna</Location>
+  <Latitude>42.17619</Latitude>
+  <Longitude>8.78357</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>19412</ObservationId2014>
+  <ImageId2014>47040</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

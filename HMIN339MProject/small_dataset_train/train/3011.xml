@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26056</ObservationId>
+  <MediaId>3011</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2011-4-12</Date>
+  <Location>Prades-le-Lez</Location>
+  <Latitude>43.72011</Latitude>
+  <Longitude>3.8605</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2514</ObservationId2014>
+  <ImageId2014>32778</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

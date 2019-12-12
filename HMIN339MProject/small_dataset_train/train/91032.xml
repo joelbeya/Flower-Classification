@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32264</ObservationId>
+  <MediaId>91032</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2008-6-24</Date>
+  <Location>Vauxrenard</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2661</ObservationId2014>
+  <ImageId2014>48251</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

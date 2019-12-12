@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17799</ObservationId>
+  <MediaId>87956</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>renaud raffier</Author>
+  <Date>2013-6-8</Date>
+  <Location>Aillon-le-Jeune</Location>
+  <Latitude>45.60956</Latitude>
+  <Longitude>6.11123</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6518</ObservationId2014>
+  <ImageId2014>7057</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

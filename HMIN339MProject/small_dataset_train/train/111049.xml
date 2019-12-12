@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25202</ObservationId>
+  <MediaId>111049</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2012-4-11</Date>
+  <Location>Narbonne</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15119</ObservationId2014>
+  <ImageId2014>8174</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

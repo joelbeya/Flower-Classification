@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26885</ObservationId>
+  <MediaId>83465</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>benjamin deslandes</Author>
+  <Date>2008-5-3</Date>
+  <Location>Tilly-sur-Seulles</Location>
+  <Latitude>48.97944</Latitude>
+  <Longitude>-0.23389</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3312</ObservationId2014>
+  <ImageId2014>47722</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

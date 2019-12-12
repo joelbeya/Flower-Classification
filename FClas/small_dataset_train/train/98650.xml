@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29765</ObservationId>
+  <MediaId>98650</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>cognato</Author>
+  <Date>2013-4-14</Date>
+  <Location>Ottersthal</Location>
+  <Latitude>48.75566</Latitude>
+  <Longitude>7.35133</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8626</ObservationId2014>
+  <ImageId2014>11388</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

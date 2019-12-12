@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>6785</ObservationId>
+  <MediaId>36071</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>32201</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys virescens Philippe</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-4-11</Date>
+  <Location>Roquebrune-sur-Argens</Location>
+  <Latitude>43.44286</Latitude>
+  <Longitude>6.64212</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9241</ObservationId2014>
+  <ImageId2014>3851</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>10789</ObservationId>
+  <MediaId>35192</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>paul fabre</Author>
+  <Date>2011-5-5</Date>
+  <Location>Valleraugue</Location>
+  <Latitude>44.1223</Latitude>
+  <Longitude>3.57794</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>10454</ObservationId2014>
+  <ImageId2014>58147</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14308</ObservationId>
+  <MediaId>95255</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2007-5-15</Date>
+  <Location>Prades-le-Lez</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>14154</ObservationId2014>
+  <ImageId2014>52911</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

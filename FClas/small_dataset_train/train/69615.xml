@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2010</ObservationId>
+  <MediaId>69615</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-8-27</Date>
+  <Location>Marcilly-le-Châtel</Location>
+  <Latitude>45.69833</Latitude>
+  <Longitude>4.02417</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16231</ObservationId2014>
+  <ImageId2014>17044</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

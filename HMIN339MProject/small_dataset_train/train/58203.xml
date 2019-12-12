@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36259</ObservationId>
+  <MediaId>58203</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>roland launay</Author>
+  <Date>2011-5-21</Date>
+  <Location>Saint-Michel-les-Portes</Location>
+  <Latitude>44.86124</Latitude>
+  <Longitude>5.62533</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11397</ObservationId2014>
+  <ImageId2014>31129</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26297</ObservationId>
+  <MediaId>22916</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4369</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula veris L.</Species>
+  <Author>andrine faure</Author>
+  <Date>2012-4-8</Date>
+  <Location>La Chapelle-Villars</Location>
+  <Latitude>45.47578</Latitude>
+  <Longitude>4.69807</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10101</ObservationId2014>
+  <ImageId2014>37068</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

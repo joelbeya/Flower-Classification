@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25488</ObservationId>
+  <MediaId>27137</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>5148</ClassId>
+  <Family>Salicaceae</Family>
+  <Genus>Salix</Genus>
+  <Species>Salix caprea L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-4-14</Date>
+  <Location>Saint-Aignan</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>401</ObservationId2014>
+  <ImageId2014>31380</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

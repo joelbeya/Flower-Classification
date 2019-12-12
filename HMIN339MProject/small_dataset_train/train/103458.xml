@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34707</ObservationId>
+  <MediaId>103458</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>gilles salama</Author>
+  <Date>2013-6-9</Date>
+  <Location>Pin-Balma</Location>
+  <Latitude>43.61212</Latitude>
+  <Longitude>1.52635</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7434</ObservationId2014>
+  <ImageId2014>25525</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

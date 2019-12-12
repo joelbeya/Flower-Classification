@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16179</ObservationId>
+  <MediaId>76316</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-7-3</Date>
+  <Location>Changé</Location>
+  <Latitude>48.00727</Latitude>
+  <Longitude>0.30075</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12025</ObservationId2014>
+  <ImageId2014>14918</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

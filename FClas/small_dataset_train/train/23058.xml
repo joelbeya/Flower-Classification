@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35312</ObservationId>
+  <MediaId>23058</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>jean-francois molino</Author>
+  <Date>2014-3-30</Date>
+  <Location>Grabels</Location>
+  <Latitude>43.6479</Latitude>
+  <Longitude>3.79091</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

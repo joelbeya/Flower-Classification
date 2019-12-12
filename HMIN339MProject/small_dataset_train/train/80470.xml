@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17922</ObservationId>
+  <MediaId>80470</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>9930</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis helleborine (L.) Crantz</Species>
+  <Author>genevieve botti</Author>
+  <Date>2013-8-24</Date>
+  <Location>Briançon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2247</ObservationId2014>
+  <ImageId2014>41986</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22302</ObservationId>
+  <MediaId>53244</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2005-6-5</Date>
+  <Location>Vauxrenard</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6945</ObservationId2014>
+  <ImageId2014>53956</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

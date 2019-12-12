@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>6544</ObservationId>
+  <MediaId>29808</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>alain riviere</Author>
+  <Date>2013-4-10</Date>
+  <Location>Pessac</Location>
+  <Latitude>44.8067</Latitude>
+  <Longitude>-0.67025</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17029</ObservationId2014>
+  <ImageId2014>18589</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

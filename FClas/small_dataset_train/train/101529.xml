@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9035</ObservationId>
+  <MediaId>101529</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2009-5-5</Date>
+  <Location>Saint-Hostien</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2121</ObservationId2014>
+  <ImageId2014>54753</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

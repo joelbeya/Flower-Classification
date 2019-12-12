@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35304</ObservationId>
+  <MediaId>70275</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>maxime</Author>
+  <Date>2013-4-13</Date>
+  <Location>Martigny-les-Bains</Location>
+  <Latitude>48.1185</Latitude>
+  <Longitude>5.83533</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15427</ObservationId2014>
+  <ImageId2014>53621</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

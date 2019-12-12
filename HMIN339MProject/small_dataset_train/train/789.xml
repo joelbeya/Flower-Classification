@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34801</ObservationId>
+  <MediaId>789</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2010-4-23</Date>
+  <Location>Olonne-sur-Mer</Location>
+  <Latitude>46.58473</Latitude>
+  <Longitude>-1.84285</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>19030</ObservationId2014>
+  <ImageId2014>38705</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

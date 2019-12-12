@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9539</ObservationId>
+  <MediaId>5765</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>paul fabre</Author>
+  <Date>2011-6-3</Date>
+  <Location>Les Assions</Location>
+  <Latitude>44.43021</Latitude>
+  <Longitude>4.15998</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1275</ObservationId2014>
+  <ImageId2014>2229</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

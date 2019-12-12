@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13069</ObservationId>
+  <MediaId>53030</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>jean-claude echardour</Author>
+  <Date>2010-5-18</Date>
+  <Location>Saffré</Location>
+  <Latitude>47.49726</Latitude>
+  <Longitude>-1.59517</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1848</ObservationId2014>
+  <ImageId2014>6894</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40988</ObservationId>
+  <MediaId>80166</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2007-5-6</Date>
+  <Location>Riboux</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17213</ObservationId2014>
+  <ImageId2014>42204</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

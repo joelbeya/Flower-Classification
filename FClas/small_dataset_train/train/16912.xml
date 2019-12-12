@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22025</ObservationId>
+  <MediaId>16912</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2014-6-10</Date>
+  <Location>Aulus-les-Bains</Location>
+  <Latitude>42.78345</Latitude>
+  <Longitude>1.38949</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

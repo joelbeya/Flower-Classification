@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34930</ObservationId>
+  <MediaId>58942</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>yoan martin</Author>
+  <Date>2013-4-19</Date>
+  <Location />
+  <Latitude>38.09371</Latitude>
+  <Longitude>12.78321</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14110</ObservationId2014>
+  <ImageId2014>21741</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

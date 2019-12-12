@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29061</ObservationId>
+  <MediaId>99749</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2013-5-13</Date>
+  <Location>Nissan-lez-Enserune</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7418</ObservationId2014>
+  <ImageId2014>54268</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

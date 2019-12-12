@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4566</ObservationId>
+  <MediaId>49117</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>eric gagnereau</Author>
+  <Date>2013-6-24</Date>
+  <Location>Ispagnac</Location>
+  <Latitude>44.37938</Latitude>
+  <Longitude>3.52791</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1227</ObservationId2014>
+  <ImageId2014>18898</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

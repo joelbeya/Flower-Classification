@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20387</ObservationId>
+  <MediaId>80461</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-5-12</Date>
+  <Location>Mas-Saint-Chély</Location>
+  <Latitude>44.33528</Latitude>
+  <Longitude>3.42694</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>4206</ObservationId2014>
+  <ImageId2014>17398</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

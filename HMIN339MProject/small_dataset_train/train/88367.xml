@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13859</ObservationId>
+  <MediaId>88367</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>pierre-alain jacot</Author>
+  <Date>2012-5-14</Date>
+  <Location>Saint-Germain-de-Calberte</Location>
+  <Latitude>44.21642</Latitude>
+  <Longitude>3.80989</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8912</ObservationId2014>
+  <ImageId2014>5429</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

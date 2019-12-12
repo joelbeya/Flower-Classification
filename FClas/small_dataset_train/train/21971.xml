@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22943</ObservationId>
+  <MediaId>21971</MediaId>
+  <Vote>4.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>michel riviere</Author>
+  <Date>2013-3-29</Date>
+  <Location>Vergèze</Location>
+  <Latitude>43.75083</Latitude>
+  <Longitude>4.2185</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>933</ObservationId2014>
+  <ImageId2014>47139</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

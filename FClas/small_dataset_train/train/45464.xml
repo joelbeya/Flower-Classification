@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28283</ObservationId>
+  <MediaId>45464</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>bruno stien</Author>
+  <Date>2012-7-12</Date>
+  <Location>Coucy-lès-Eppes</Location>
+  <Latitude>49.59391</Latitude>
+  <Longitude>3.73772</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>12269</ObservationId2014>
+  <ImageId2014>34839</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

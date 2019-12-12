@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3336</ObservationId>
+  <MediaId>11590</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>Unknown261</Author>
+  <Date>2008-5-14</Date>
+  <Location>Meysse</Location>
+  <Latitude>44.60897</Latitude>
+  <Longitude>4.7397</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9725</ObservationId2014>
+  <ImageId2014>41940</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

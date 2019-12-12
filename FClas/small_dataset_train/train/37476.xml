@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40909</ObservationId>
+  <MediaId>37476</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>pierre-luc bardet</Author>
+  <Date>2011-4-2</Date>
+  <Location>Orcival</Location>
+  <Latitude>45.63672</Latitude>
+  <Longitude>2.8588</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6180</ObservationId2014>
+  <ImageId2014>16318</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

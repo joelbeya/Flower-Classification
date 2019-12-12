@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>18137</ObservationId>
+  <MediaId>12657</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>691</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cirsium</Genus>
+  <Species>Cirsium vulgare (Savi) Ten.</Species>
+  <Author>herve goeau</Author>
+  <Date>2014-8-16</Date>
+  <Location>Mayres-Savel</Location>
+  <Latitude>44.87244</Latitude>
+  <Longitude>5.70434</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>6240</ObservationId>
+  <MediaId>12237</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>christophe girod</Author>
+  <Date>2011-6-16</Date>
+  <Location>Andrézieux</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1016</ObservationId2014>
+  <ImageId2014>53124</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11008</ObservationId>
+  <MediaId>12989</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2013-6-4</Date>
+  <Location>Corignac</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>858</ObservationId2014>
+  <ImageId2014>56794</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

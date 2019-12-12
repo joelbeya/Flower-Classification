@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19267</ObservationId>
+  <MediaId>26163</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>bernard andrieu</Author>
+  <Date>2013-9-24</Date>
+  <Location>La Couvertoirade</Location>
+  <Latitude>43.9171</Latitude>
+  <Longitude>3.28847</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

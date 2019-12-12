@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28805</ObservationId>
+  <MediaId>40457</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>michael martinez</Author>
+  <Date>2012-5-17</Date>
+  <Location>Saint-Symphorien-d'Ozon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17406</ObservationId2014>
+  <ImageId2014>51173</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

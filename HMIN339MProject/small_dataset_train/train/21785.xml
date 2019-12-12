@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3802</ObservationId>
+  <MediaId>21785</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>felice olivesi</Author>
+  <Date>2013-8-17</Date>
+  <Location>Autainville</Location>
+  <Latitude>47.87738</Latitude>
+  <Longitude>1.40962</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7033</ObservationId2014>
+  <ImageId2014>22050</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

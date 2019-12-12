@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>18074</ObservationId>
+  <MediaId>36864</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>genevieve botti</Author>
+  <Date>2013-3-11</Date>
+  <Location>Marseille</Location>
+  <Latitude>43.23017</Latitude>
+  <Longitude>5.36917</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>10643</ObservationId2014>
+  <ImageId2014>33092</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

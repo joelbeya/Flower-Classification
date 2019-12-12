@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19846</ObservationId>
+  <MediaId>35079</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>ad78f98f6512ea78e589cb07e099abf9</Author>
+  <Date>2013-3-10</Date>
+  <Location>Bourgnac</Location>
+  <Latitude>45.00383</Latitude>
+  <Longitude>0.38617</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>810</ObservationId2014>
+  <ImageId2014>23275</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

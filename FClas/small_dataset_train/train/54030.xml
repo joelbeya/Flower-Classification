@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15610</ObservationId>
+  <MediaId>54030</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>michel demares</Author>
+  <Date>2005-4-30</Date>
+  <Location>Toulon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9052</ObservationId2014>
+  <ImageId2014>16860</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

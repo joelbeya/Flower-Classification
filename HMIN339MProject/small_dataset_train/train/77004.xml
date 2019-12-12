@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32940</ObservationId>
+  <MediaId>77004</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8534</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aconitum</Genus>
+  <Species>Aconitum napellus L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2006-7-16</Date>
+  <Location>Oô</Location>
+  <Latitude>42.79944</Latitude>
+  <Longitude>0.50694</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9890</ObservationId2014>
+  <ImageId2014>4119</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

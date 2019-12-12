@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24211</ObservationId>
+  <MediaId>39918</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>thierry pernot</Author>
+  <Date>1800-1-1</Date>
+  <Location />
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12431</ObservationId2014>
+  <ImageId2014>27653</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

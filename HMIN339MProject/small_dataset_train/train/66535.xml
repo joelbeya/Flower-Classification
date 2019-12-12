@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>30220</ObservationId>
+  <MediaId>66535</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>jame lagarrigue</Author>
+  <Date>2011-3-24</Date>
+  <Location>Poulx</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4240</ObservationId2014>
+  <ImageId2014>25249</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

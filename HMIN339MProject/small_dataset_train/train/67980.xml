@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19080</ObservationId>
+  <MediaId>67980</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>paul fabre</Author>
+  <Date>2011-7-12</Date>
+  <Location>Les Assions</Location>
+  <Latitude>44.43021</Latitude>
+  <Longitude>4.15998</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>10325</ObservationId2014>
+  <ImageId2014>3389</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

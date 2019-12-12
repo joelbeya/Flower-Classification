@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>10091</ObservationId>
+  <MediaId>105661</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2007-3-26</Date>
+  <Location>Fabrègues</Location>
+  <Latitude>43.55424</Latitude>
+  <Longitude>3.75908</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2229</ObservationId2014>
+  <ImageId2014>23846</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

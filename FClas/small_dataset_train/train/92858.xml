@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8079</ObservationId>
+  <MediaId>92858</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>rassiga</Author>
+  <Date>2013-3-5</Date>
+  <Location>Razac-sur-l'Isle</Location>
+  <Latitude>45.14583</Latitude>
+  <Longitude>0.6075</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16263</ObservationId2014>
+  <ImageId2014>26805</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

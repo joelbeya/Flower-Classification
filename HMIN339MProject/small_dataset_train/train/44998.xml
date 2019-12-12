@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23647</ObservationId>
+  <MediaId>44998</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>gregoire duche</Author>
+  <Date>2012-5-26</Date>
+  <Location>Le Pont-de-Montvert</Location>
+  <Latitude>44.3638</Latitude>
+  <Longitude>3.73641</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9905</ObservationId2014>
+  <ImageId2014>42628</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

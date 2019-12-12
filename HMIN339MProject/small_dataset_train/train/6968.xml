@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28324</ObservationId>
+  <MediaId>6968</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>hugues tinguy</Author>
+  <Date>2011-3-26</Date>
+  <Location>Nordhouse</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1132</ObservationId2014>
+  <ImageId2014>30141</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

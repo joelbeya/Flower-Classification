@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36760</ObservationId>
+  <MediaId>104867</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>julien barbe</Author>
+  <Date>2013-6-21</Date>
+  <Location>Belmont-sur-Rance</Location>
+  <Latitude>43.82367</Latitude>
+  <Longitude>2.75467</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16606</ObservationId2014>
+  <ImageId2014>24056</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12135</ObservationId>
+  <MediaId>67505</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>renaud jegat</Author>
+  <Date>2012-5-18</Date>
+  <Location>Alençon</Location>
+  <Latitude>48.43696</Latitude>
+  <Longitude>0.09514</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11038</ObservationId2014>
+  <ImageId2014>33660</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

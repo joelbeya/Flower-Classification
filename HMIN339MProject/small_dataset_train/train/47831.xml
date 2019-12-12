@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>242</ObservationId>
+  <MediaId>47831</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>gerrit oerlemans</Author>
+  <Date>2013-5-9</Date>
+  <Location>Bouzic</Location>
+  <Latitude>44.70283</Latitude>
+  <Longitude>1.20309</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18851</ObservationId2014>
+  <ImageId2014>40865</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

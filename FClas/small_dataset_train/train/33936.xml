@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3683</ObservationId>
+  <MediaId>33936</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>cedric rousseau</Author>
+  <Date>2011-6-5</Date>
+  <Location>Audigny</Location>
+  <Latitude>49.86376</Latitude>
+  <Longitude>3.65268</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17266</ObservationId2014>
+  <ImageId2014>29567</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

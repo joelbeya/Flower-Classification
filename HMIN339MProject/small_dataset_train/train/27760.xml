@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24563</ObservationId>
+  <MediaId>27760</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>grein</Author>
+  <Date>2013-6-19</Date>
+  <Location>Lannen</Location>
+  <Latitude>49.79</Latitude>
+  <Longitude>5.83883</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13009</ObservationId2014>
+  <ImageId2014>4975</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

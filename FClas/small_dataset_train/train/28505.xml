@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4584</ObservationId>
+  <MediaId>28505</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>gerrit oerlemans</Author>
+  <Date>2013-5-9</Date>
+  <Location>Bouzic</Location>
+  <Latitude>44.70283</Latitude>
+  <Longitude>1.20309</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18868</ObservationId2014>
+  <ImageId2014>42091</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

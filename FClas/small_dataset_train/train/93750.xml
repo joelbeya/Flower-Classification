@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16527</ObservationId>
+  <MediaId>93750</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>marie portas</Author>
+  <Date>2013-6-7</Date>
+  <Location>Rosis</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6393</ObservationId2014>
+  <ImageId2014>47146</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

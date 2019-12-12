@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11661</ObservationId>
+  <MediaId>109906</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-6-13</Date>
+  <Location>Montferrier-sur-Lez</Location>
+  <Latitude>43.65753</Latitude>
+  <Longitude>3.86485</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16316</ObservationId2014>
+  <ImageId2014>2384</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

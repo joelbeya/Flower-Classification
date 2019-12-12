@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41443</ObservationId>
+  <MediaId>38019</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>herve gryta</Author>
+  <Date>2010-5-1</Date>
+  <Location>Amélie-les-Bains-Palalda</Location>
+  <Latitude>42.47781</Latitude>
+  <Longitude>2.66631</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17072</ObservationId2014>
+  <ImageId2014>50383</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

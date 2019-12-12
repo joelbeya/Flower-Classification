@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41549</ObservationId>
+  <MediaId>55576</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>etienne aspord</Author>
+  <Date>2012-4-19</Date>
+  <Location>Saint-Savournin</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17886</ObservationId2014>
+  <ImageId2014>41289</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

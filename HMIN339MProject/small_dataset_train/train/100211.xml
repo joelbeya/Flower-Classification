@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>18601</ObservationId>
+  <MediaId>100211</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2008-4-29</Date>
+  <Location>Prades-le-Lez</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17908</ObservationId2014>
+  <ImageId2014>46126</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

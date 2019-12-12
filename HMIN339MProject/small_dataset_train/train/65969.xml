@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4309</ObservationId>
+  <MediaId>65969</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>967</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Hypochaeris</Genus>
+  <Species>Hypochaeris radicata L.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2012-6-2</Date>
+  <Location>Gruissan</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

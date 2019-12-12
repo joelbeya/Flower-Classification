@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22544</ObservationId>
+  <MediaId>25093</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>clemence bes</Author>
+  <Date>2008-6-28</Date>
+  <Location>Passy</Location>
+  <Latitude>45.97158</Latitude>
+  <Longitude>6.80783</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>8351</ObservationId2014>
+  <ImageId2014>35611</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>6908</ObservationId>
+  <MediaId>70284</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6448</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis atrorubens (Hoffm.) Besser</Species>
+  <Author>marc fourrier</Author>
+  <Date>2011-7-21</Date>
+  <Location>Vernon</Location>
+  <Latitude>49.05655</Latitude>
+  <Longitude>1.48727</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3207</ObservationId2014>
+  <ImageId2014>12575</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

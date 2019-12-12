@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22851</ObservationId>
+  <MediaId>45919</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>claire felloni</Author>
+  <Date>2011-9-24</Date>
+  <Location>Saint-Coulomb</Location>
+  <Latitude>48.68944</Latitude>
+  <Longitude>-1.95381</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>11789</ObservationId2014>
+  <ImageId2014>13594</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

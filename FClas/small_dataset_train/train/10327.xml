@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16157</ObservationId>
+  <MediaId>10327</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>paul fabre</Author>
+  <Date>2012-5-27</Date>
+  <Location>Saint-Privat</Location>
+  <Latitude>43.7534</Latitude>
+  <Longitude>3.47155</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1313</ObservationId2014>
+  <ImageId2014>54592</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

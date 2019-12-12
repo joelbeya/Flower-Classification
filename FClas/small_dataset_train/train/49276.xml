@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12585</ObservationId>
+  <MediaId>49276</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>marie portas</Author>
+  <Date>2012-5-2</Date>
+  <Location>Bonnieux</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>10754</ObservationId2014>
+  <ImageId2014>3432</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

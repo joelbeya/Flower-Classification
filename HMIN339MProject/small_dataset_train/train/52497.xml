@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29403</ObservationId>
+  <MediaId>52497</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>pierre bonnet</Author>
+  <Date>2013-7-20</Date>
+  <Location>Présilly</Location>
+  <Latitude>46.57768</Latitude>
+  <Longitude>5.58258</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15685</ObservationId2014>
+  <ImageId2014>57756</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

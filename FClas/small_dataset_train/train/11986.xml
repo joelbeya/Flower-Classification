@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19703</ObservationId>
+  <MediaId>11986</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>Unknown17</Author>
+  <Date>2008-5-20</Date>
+  <Location>Saint-Vincent-d'Olargues</Location>
+  <Latitude>43.57565</Latitude>
+  <Longitude>2.88424</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17500</ObservationId2014>
+  <ImageId2014>21399</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

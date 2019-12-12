@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31168</ObservationId>
+  <MediaId>99691</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4353</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula vulgaris Huds.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2011-3-11</Date>
+  <Location>Mirepoix-sur-Tarn</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>19133</ObservationId2014>
+  <ImageId2014>23856</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

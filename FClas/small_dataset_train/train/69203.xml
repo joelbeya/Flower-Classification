@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15799</ObservationId>
+  <MediaId>69203</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>julien barataud</Author>
+  <Date>2007-6-20</Date>
+  <Location>Nohèdes</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17089</ObservationId2014>
+  <ImageId2014>45130</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

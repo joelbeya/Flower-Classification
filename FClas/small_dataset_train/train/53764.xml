@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24070</ObservationId>
+  <MediaId>53764</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>bertrand aucouturier</Author>
+  <Date>2011-4-26</Date>
+  <Location>Montagrier</Location>
+  <Latitude>45.26685</Latitude>
+  <Longitude>0.46483</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>15703</ObservationId2014>
+  <ImageId2014>5564</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

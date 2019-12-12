@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26424</ObservationId>
+  <MediaId>20856</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>christophe girod</Author>
+  <Date>2004-8-4</Date>
+  <Location>La Borne au Lion (39)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6300</ObservationId2014>
+  <ImageId2014>51774</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

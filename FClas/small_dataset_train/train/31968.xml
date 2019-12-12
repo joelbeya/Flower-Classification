@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25074</ObservationId>
+  <MediaId>31968</MediaId>
+  <Vote>1.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>couttet</Author>
+  <Date>2013-4-17</Date>
+  <Location>Chamonix-Mont-Blanc</Location>
+  <Latitude>45.89867</Latitude>
+  <Longitude>6.8315</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10446</ObservationId2014>
+  <ImageId2014>36334</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

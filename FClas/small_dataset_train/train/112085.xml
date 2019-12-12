@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27978</ObservationId>
+  <MediaId>112085</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>Unknown690</Author>
+  <Date>2013-4-30</Date>
+  <Location>Plombières-les-Bains</Location>
+  <Latitude>47.9435</Latitude>
+  <Longitude>6.42117</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9926</ObservationId2014>
+  <ImageId2014>35798</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

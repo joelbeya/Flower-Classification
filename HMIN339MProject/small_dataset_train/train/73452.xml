@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21393</ObservationId>
+  <MediaId>73452</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>ambrosias</Author>
+  <Date>2014-8-26</Date>
+  <Location>Lescure-d'Albigeois</Location>
+  <Latitude>43.95666</Latitude>
+  <Longitude>2.17116</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

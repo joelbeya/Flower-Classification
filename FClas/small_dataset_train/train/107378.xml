@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41303</ObservationId>
+  <MediaId>107378</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>Unknown320</Author>
+  <Date>2013-6-8</Date>
+  <Location>Vannes</Location>
+  <Latitude>47.6466</Latitude>
+  <Longitude>-2.76292</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16804</ObservationId2014>
+  <ImageId2014>42833</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

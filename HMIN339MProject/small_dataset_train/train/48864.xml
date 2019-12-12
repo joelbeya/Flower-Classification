@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15715</ObservationId>
+  <MediaId>48864</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>jean-claude echardour</Author>
+  <Date>2013-7-19</Date>
+  <Location>Joué-sur-Erdre</Location>
+  <Latitude>47.50443</Latitude>
+  <Longitude>-1.50713</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5014</ObservationId2014>
+  <ImageId2014>14411</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

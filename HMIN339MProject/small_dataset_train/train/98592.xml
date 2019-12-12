@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>37737</ObservationId>
+  <MediaId>98592</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>claude figureau</Author>
+  <Date>2010-6-6</Date>
+  <Location>Talmont la Guittière</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6626</ObservationId2014>
+  <ImageId2014>6549</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29412</ObservationId>
+  <MediaId>64285</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-3-26</Date>
+  <Location>Clapiers</Location>
+  <Latitude>43.66128</Latitude>
+  <Longitude>3.87115</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2063</ObservationId2014>
+  <ImageId2014>22122</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38511</ObservationId>
+  <MediaId>72754</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>noureddine</Author>
+  <Date>2013-4-16</Date>
+  <Location>Epinay-sur-Seine</Location>
+  <Latitude>48.95517</Latitude>
+  <Longitude>2.31283</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1771</ObservationId2014>
+  <ImageId2014>8676</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

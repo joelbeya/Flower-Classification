@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8806</ObservationId>
+  <MediaId>91941</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>remy gentner</Author>
+  <Date>2013-5-25</Date>
+  <Location>Singrist</Location>
+  <Latitude>48.65979</Latitude>
+  <Longitude>7.3912</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14491</ObservationId2014>
+  <ImageId2014>16816</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

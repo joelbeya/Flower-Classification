@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20211</ObservationId>
+  <MediaId>55831</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>gerald verniers</Author>
+  <Date>2013-3-20</Date>
+  <Location>Ariana</Location>
+  <Latitude>36.89113</Latitude>
+  <Longitude>10.16248</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11153</ObservationId2014>
+  <ImageId2014>5747</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

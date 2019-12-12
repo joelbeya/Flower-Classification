@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8699</ObservationId>
+  <MediaId>106893</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>32201</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys virescens Philippe</Species>
+  <Author>bertrand bui</Author>
+  <Date>2012-4-6</Date>
+  <Location>Les Pennes-Mirabeau</Location>
+  <Latitude>43.39967</Latitude>
+  <Longitude>5.34849</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>247</ObservationId2014>
+  <ImageId2014>6266</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

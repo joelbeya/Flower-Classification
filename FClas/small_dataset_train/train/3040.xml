@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2688</ObservationId>
+  <MediaId>3040</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>Unknown657</Author>
+  <Date>2010-4-21</Date>
+  <Location>Pessac</Location>
+  <Latitude>44.79286</Latitude>
+  <Longitude>-0.59313</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17235</ObservationId2014>
+  <ImageId2014>15780</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

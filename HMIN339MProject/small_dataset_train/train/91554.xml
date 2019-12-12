@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7810</ObservationId>
+  <MediaId>91554</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>christophe girod</Author>
+  <Date>2000-7-1</Date>
+  <Location>Puy De Cliergue</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3958</ObservationId2014>
+  <ImageId2014>12120</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

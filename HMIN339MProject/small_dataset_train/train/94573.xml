@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27897</ObservationId>
+  <MediaId>94573</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>robin guidez</Author>
+  <Date>2012-6-22</Date>
+  <Location>Locmaria-Plouzané</Location>
+  <Latitude>48.36228</Latitude>
+  <Longitude>-4.64117</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1169</ObservationId2014>
+  <ImageId2014>26663</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

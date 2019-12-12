@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41562</ObservationId>
+  <MediaId>82300</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>augustin roche</Author>
+  <Date>2002-6-15</Date>
+  <Location>Gratot</Location>
+  <Latitude>49.063</Latitude>
+  <Longitude>-1.473</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10428</ObservationId2014>
+  <ImageId2014>51657</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

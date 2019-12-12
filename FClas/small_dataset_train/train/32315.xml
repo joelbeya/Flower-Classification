@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19569</ObservationId>
+  <MediaId>32315</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>catherine mahyeux</Author>
+  <Date>2011-7-15</Date>
+  <Location>Cabrespine</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6384</ObservationId2014>
+  <ImageId2014>25472</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

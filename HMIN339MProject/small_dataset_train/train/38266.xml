@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9930</ObservationId>
+  <MediaId>38266</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>151</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Daucus</Genus>
+  <Species>Daucus carota L.</Species>
+  <Author>valerie bruneau-querey</Author>
+  <Date>2008-7-23</Date>
+  <Location>Concarneau</Location>
+  <Latitude>47.72303</Latitude>
+  <Longitude>-4.00537</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1294</ObservationId2014>
+  <ImageId2014>53628</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

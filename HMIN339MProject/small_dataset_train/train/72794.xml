@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20279</ObservationId>
+  <MediaId>72794</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>claire felloni</Author>
+  <Date>2012-5-26</Date>
+  <Location>Saint-Coulomb</Location>
+  <Latitude>48.69213</Latitude>
+  <Longitude>-1.9311</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>7697</ObservationId2014>
+  <ImageId2014>24185</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

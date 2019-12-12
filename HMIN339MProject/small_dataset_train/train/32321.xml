@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>30819</ObservationId>
+  <MediaId>32321</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2012-8-11</Date>
+  <Location>Pralognan-la-Vanoise</Location>
+  <Latitude>45.39057</Latitude>
+  <Longitude>6.70475</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6004</ObservationId2014>
+  <ImageId2014>14150</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

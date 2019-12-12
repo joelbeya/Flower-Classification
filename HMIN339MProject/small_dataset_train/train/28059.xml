@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11558</ObservationId>
+  <MediaId>28059</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>bernard andrieu</Author>
+  <Date>2013-6-28</Date>
+  <Location>Bédarieux</Location>
+  <Latitude>43.62326</Latitude>
+  <Longitude>3.17035</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17771</ObservationId2014>
+  <ImageId2014>59851</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

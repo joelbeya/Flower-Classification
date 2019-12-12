@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28046</ObservationId>
+  <MediaId>109117</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2010-4-10</Date>
+  <Location>Athis-Mons</Location>
+  <Latitude>48.69988</Latitude>
+  <Longitude>2.37897</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9440</ObservationId2014>
+  <ImageId2014>2100</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

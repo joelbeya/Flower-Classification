@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14894</ObservationId>
+  <MediaId>22011</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8708</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Astrantia</Genus>
+  <Species>Astrantia major L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2008-8-3</Date>
+  <Location>Génos</Location>
+  <Latitude>42.7434</Latitude>
+  <Longitude>0.40782</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

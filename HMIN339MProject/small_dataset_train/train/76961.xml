@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11723</ObservationId>
+  <MediaId>76961</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>151</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Daucus</Genus>
+  <Species>Daucus carota L.</Species>
+  <Author>augustin roche</Author>
+  <Date>2005-6-19</Date>
+  <Location />
+  <Latitude>48.4554</Latitude>
+  <Longitude>5.1249</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6081</ObservationId2014>
+  <ImageId2014>18903</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5260</ObservationId>
+  <MediaId>281</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>bernard andrieu</Author>
+  <Date>2013-5-21</Date>
+  <Location>La Tour-sur-Orb</Location>
+  <Latitude>43.65545</Latitude>
+  <Longitude>3.18003</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>782</ObservationId2014>
+  <ImageId2014>25882</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

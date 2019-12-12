@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17916</ObservationId>
+  <MediaId>33268</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>guy libante</Author>
+  <Date>2013-6-1</Date>
+  <Location>Lormont</Location>
+  <Latitude>44.88016</Latitude>
+  <Longitude>-0.52311</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11071</ObservationId2014>
+  <ImageId2014>9625</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

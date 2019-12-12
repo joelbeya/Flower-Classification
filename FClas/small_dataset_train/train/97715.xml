@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22038</ObservationId>
+  <MediaId>97715</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-7-22</Date>
+  <Location>Marmande</Location>
+  <Latitude>44.45433</Latitude>
+  <Longitude>0.149</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1366</ObservationId2014>
+  <ImageId2014>50996</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

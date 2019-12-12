@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17678</ObservationId>
+  <MediaId>111451</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>jean-claude ernewein</Author>
+  <Date>2008-4-12</Date>
+  <Location>Jouques</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16084</ObservationId2014>
+  <ImageId2014>11173</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

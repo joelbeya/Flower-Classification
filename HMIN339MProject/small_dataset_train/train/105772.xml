@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>722</ObservationId>
+  <MediaId>105772</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2008-9-14</Date>
+  <Location>Bretignolles-sur-Mer</Location>
+  <Latitude>46.59271</Latitude>
+  <Longitude>-1.84648</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11012</ObservationId2014>
+  <ImageId2014>6317</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22147</ObservationId>
+  <MediaId>38080</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>augustin roche</Author>
+  <Date>2004-6-22</Date>
+  <Location>Saint-Pierre-de-Coutances</Location>
+  <Latitude>49.0357</Latitude>
+  <Longitude>-1.43967</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14102</ObservationId2014>
+  <ImageId2014>31281</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

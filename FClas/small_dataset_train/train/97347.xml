@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4042</ObservationId>
+  <MediaId>97347</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>jean-pascal milcent</Author>
+  <Date>2011-4-26</Date>
+  <Location>Durfort-et-Saint-Martin-de-Sossenac</Location>
+  <Latitude>43.9736</Latitude>
+  <Longitude>3.98056</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17150</ObservationId2014>
+  <ImageId2014>42293</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

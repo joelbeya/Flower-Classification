@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19363</ObservationId>
+  <MediaId>58039</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2006-5-20</Date>
+  <Location>Chantonnay</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>19034</ObservationId2014>
+  <ImageId2014>8143</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

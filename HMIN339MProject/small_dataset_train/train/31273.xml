@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40699</ObservationId>
+  <MediaId>31273</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-5-8</Date>
+  <Location>Les Vans</Location>
+  <Latitude>44.39227</Latitude>
+  <Longitude>4.15629</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6424</ObservationId2014>
+  <ImageId2014>35034</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34782</ObservationId>
+  <MediaId>1898</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6448</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis atrorubens (Hoffm.) Besser</Species>
+  <Author>mathieu menand</Author>
+  <Date>2008-7-23</Date>
+  <Location>Mijanès</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>43</ObservationId2014>
+  <ImageId2014>57428</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

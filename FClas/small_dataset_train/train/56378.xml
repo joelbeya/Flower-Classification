@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23642</ObservationId>
+  <MediaId>56378</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>691</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cirsium</Genus>
+  <Species>Cirsium vulgare (Savi) Ten.</Species>
+  <Author>thierry pernot</Author>
+  <Date>1800-1-1</Date>
+  <Location />
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10263</ObservationId2014>
+  <ImageId2014>33875</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

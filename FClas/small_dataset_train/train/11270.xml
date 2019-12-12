@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28632</ObservationId>
+  <MediaId>11270</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>alain bigou</Author>
+  <Date>2005-7-8</Date>
+  <Location>Loudenvielle</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>4919</ObservationId2014>
+  <ImageId2014>44720</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

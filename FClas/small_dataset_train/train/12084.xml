@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3970</ObservationId>
+  <MediaId>12084</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>5148</ClassId>
+  <Family>Salicaceae</Family>
+  <Genus>Salix</Genus>
+  <Species>Salix caprea L.</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2003-3-15</Date>
+  <Location>Ozoir-la-Ferrière</Location>
+  <Latitude>48.77248</Latitude>
+  <Longitude>2.65341</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13458</ObservationId2014>
+  <ImageId2014>54410</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

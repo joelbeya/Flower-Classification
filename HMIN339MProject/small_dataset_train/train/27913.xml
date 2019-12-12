@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35160</ObservationId>
+  <MediaId>27913</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2007-5-8</Date>
+  <Location>Vedène</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2354</ObservationId2014>
+  <ImageId2014>46734</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

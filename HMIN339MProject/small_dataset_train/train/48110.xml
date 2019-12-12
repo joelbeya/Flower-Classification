@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19545</ObservationId>
+  <MediaId>48110</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8534</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aconitum</Genus>
+  <Species>Aconitum napellus L.</Species>
+  <Author>jean-claude calais</Author>
+  <Date>2009-8-17</Date>
+  <Location>Prinsuéjols</Location>
+  <Latitude>44.6541</Latitude>
+  <Longitude>3.20128</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15680</ObservationId2014>
+  <ImageId2014>44532</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

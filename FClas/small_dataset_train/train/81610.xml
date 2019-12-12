@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41495</ObservationId>
+  <MediaId>81610</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>jean-francois rouffet</Author>
+  <Date>2011-4-29</Date>
+  <Location>Balma</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>297</ObservationId2014>
+  <ImageId2014>30140</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11680</ObservationId>
+  <MediaId>57713</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2013-6-14</Date>
+  <Location>La Bazoge</Location>
+  <Latitude>48.10846</Latitude>
+  <Longitude>0.11407</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17797</ObservationId2014>
+  <ImageId2014>41399</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

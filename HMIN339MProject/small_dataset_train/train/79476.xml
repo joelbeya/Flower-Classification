@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32281</ObservationId>
+  <MediaId>79476</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>mathieu sinet</Author>
+  <Date>1800-1-1</Date>
+  <Location>Vabre</Location>
+  <Latitude>43.69357</Latitude>
+  <Longitude>2.42935</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5682</ObservationId2014>
+  <ImageId2014>19966</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

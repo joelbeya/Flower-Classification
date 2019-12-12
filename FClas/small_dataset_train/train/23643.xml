@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3876</ObservationId>
+  <MediaId>23643</MediaId>
+  <Vote>3.33</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>bertrand aucouturier</Author>
+  <Date>2012-5-22</Date>
+  <Location>Batz-sur-Mer</Location>
+  <Latitude>47.28285</Latitude>
+  <Longitude>-2.49223</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13066</ObservationId2014>
+  <ImageId2014>60794</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

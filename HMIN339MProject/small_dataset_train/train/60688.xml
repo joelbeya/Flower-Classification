@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3324</ObservationId>
+  <MediaId>60688</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>bertrand aucouturier</Author>
+  <Date>2013-7-31</Date>
+  <Location>Lassur</Location>
+  <Latitude>43.07223</Latitude>
+  <Longitude>1.93472</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5566</ObservationId2014>
+  <ImageId2014>33854</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

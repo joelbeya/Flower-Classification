@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29675</ObservationId>
+  <MediaId>70576</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>jean-francois rouffet</Author>
+  <Date>2008-6-1</Date>
+  <Location>Monclar-de-Quercy</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1631</ObservationId2014>
+  <ImageId2014>20722</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

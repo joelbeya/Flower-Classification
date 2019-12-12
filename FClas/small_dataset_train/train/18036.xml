@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>10753</ObservationId>
+  <MediaId>18036</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2010-7-15</Date>
+  <Location>Porté-Puymorens</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9174</ObservationId2014>
+  <ImageId2014>5639</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

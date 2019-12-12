@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13392</ObservationId>
+  <MediaId>86400</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-5-8</Date>
+  <Location>Bagert</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>11026</ObservationId2014>
+  <ImageId2014>24000</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

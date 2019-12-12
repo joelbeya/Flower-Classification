@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>37878</ObservationId>
+  <MediaId>32853</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>augustin roche</Author>
+  <Date>2005-7-11</Date>
+  <Location />
+  <Latitude>48.45647</Latitude>
+  <Longitude>5.11993</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12096</ObservationId2014>
+  <ImageId2014>27397</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

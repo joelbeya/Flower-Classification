@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9536</ObservationId>
+  <MediaId>11325</MediaId>
+  <Vote>1</Vote>
+  <Content>Flower</Content>
+  <ClassId>30491</ClassId>
+  <Family>Violaceae</Family>
+  <Genus>Viola</Genus>
+  <Species>Viola tricolor L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2013-4-24</Date>
+  <Location>Saint-Genest-Malifaux</Location>
+  <Latitude>45.34582</Latitude>
+  <Longitude>4.46432</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10360</ObservationId2014>
+  <ImageId2014>12468</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

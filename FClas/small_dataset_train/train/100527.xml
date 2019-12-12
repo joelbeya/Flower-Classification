@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27229</ObservationId>
+  <MediaId>100527</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-4-13</Date>
+  <Location>Clermont-le-Fort</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16879</ObservationId2014>
+  <ImageId2014>55681</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13168</ObservationId>
+  <MediaId>72347</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2011-6-27</Date>
+  <Location>Chamonix-Mont-Blanc</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>7733</ObservationId2014>
+  <ImageId2014>12336</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>33758</ObservationId>
+  <MediaId>45838</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6509</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys passionis Sennen</Species>
+  <Author>bernard ginesy</Author>
+  <Date>2007-3-30</Date>
+  <Location>Allauch</Location>
+  <Latitude>43.33897</Latitude>
+  <Longitude>5.48809</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

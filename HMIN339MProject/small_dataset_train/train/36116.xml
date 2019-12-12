@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19113</ObservationId>
+  <MediaId>36116</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>augustin roche</Author>
+  <Date>2005-7-11</Date>
+  <Location />
+  <Latitude>48.45859</Latitude>
+  <Longitude>5.11172</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6711</ObservationId2014>
+  <ImageId2014>9750</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

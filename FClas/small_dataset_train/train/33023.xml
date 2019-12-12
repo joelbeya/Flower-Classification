@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26500</ObservationId>
+  <MediaId>33023</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>pierre bonnet</Author>
+  <Date>2013-5-18</Date>
+  <Location>Fillols</Location>
+  <Latitude>42.56169</Latitude>
+  <Longitude>2.40903</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11420</ObservationId2014>
+  <ImageId2014>11409</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

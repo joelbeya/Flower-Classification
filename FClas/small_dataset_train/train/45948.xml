@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27179</ObservationId>
+  <MediaId>45948</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2012-9-30</Date>
+  <Location>Lyon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13590</ObservationId2014>
+  <ImageId2014>24146</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

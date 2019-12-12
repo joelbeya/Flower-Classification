@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27810</ObservationId>
+  <MediaId>64047</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6415</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis anthropophora (L.) All.</Species>
+  <Author>emmanuel jacob</Author>
+  <Date>2012-5-12</Date>
+  <Location>Gan</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16739</ObservationId2014>
+  <ImageId2014>34366</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

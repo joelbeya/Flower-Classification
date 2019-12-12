@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17764</ObservationId>
+  <MediaId>101874</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6564</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Serapias</Genus>
+  <Species>Serapias vomeracea (Burm.f.) Briq.</Species>
+  <Author>marie portas</Author>
+  <Date>2013-5-8</Date>
+  <Location>Générac</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8078</ObservationId2014>
+  <ImageId2014>54664</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

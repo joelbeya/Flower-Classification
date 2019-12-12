@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12898</ObservationId>
+  <MediaId>4046</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>32201</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys virescens Philippe</Species>
+  <Author>bernard ginesy</Author>
+  <Date>2007-4-23</Date>
+  <Location>Allauch</Location>
+  <Latitude>43.33155</Latitude>
+  <Longitude>5.52462</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17713</ObservationId2014>
+  <ImageId2014>36953</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

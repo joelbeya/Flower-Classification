@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9801</ObservationId>
+  <MediaId>93700</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>christophe girod</Author>
+  <Date>2003-4-16</Date>
+  <Location>Murviel-lès-Montpellier (Garrigue du Mas Dieu) (34)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>19270</ObservationId2014>
+  <ImageId2014>32840</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

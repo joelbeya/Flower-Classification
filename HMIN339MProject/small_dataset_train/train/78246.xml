@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15273</ObservationId>
+  <MediaId>78246</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4460</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone hepatica L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-3-4</Date>
+  <Location>Saint-Girons</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>5605</ObservationId2014>
+  <ImageId2014>3500</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

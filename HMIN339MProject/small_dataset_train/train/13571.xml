@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39405</ObservationId>
+  <MediaId>13571</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>jean-pascal milcent</Author>
+  <Date>1999-5-1</Date>
+  <Location>Porto-Vecchio</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3303</ObservationId2014>
+  <ImageId2014>22290</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

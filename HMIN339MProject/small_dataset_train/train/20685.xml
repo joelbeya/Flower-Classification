@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38883</ObservationId>
+  <MediaId>20685</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>hubert daniel</Author>
+  <Date>2010-8-3</Date>
+  <Location>Loubières</Location>
+  <Latitude>43.01067</Latitude>
+  <Longitude>1.59988</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10078</ObservationId2014>
+  <ImageId2014>5895</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28460</ObservationId>
+  <MediaId>44518</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2008-5-31</Date>
+  <Location>Avignon</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16252</ObservationId2014>
+  <ImageId2014>9526</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

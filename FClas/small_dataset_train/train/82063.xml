@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>37182</ObservationId>
+  <MediaId>82063</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2008-5-21</Date>
+  <Location>Viviers</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>19192</ObservationId2014>
+  <ImageId2014>41855</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>37820</ObservationId>
+  <MediaId>89406</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>jcdubos</Author>
+  <Date>2014-5-6</Date>
+  <Location>Vic-Fezensac</Location>
+  <Latitude>43.76047</Latitude>
+  <Longitude>0.2068</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

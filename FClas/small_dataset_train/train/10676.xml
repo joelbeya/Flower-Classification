@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12240</ObservationId>
+  <MediaId>10676</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>genevieve botti</Author>
+  <Date>2012-6-21</Date>
+  <Location>Plouescat</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>10479</ObservationId2014>
+  <ImageId2014>47997</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

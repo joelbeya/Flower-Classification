@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14044</ObservationId>
+  <MediaId>76574</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>marie portas</Author>
+  <Date>2012-5-18</Date>
+  <Location>Cotignac</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9647</ObservationId2014>
+  <ImageId2014>34137</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

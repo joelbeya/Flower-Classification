@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20004</ObservationId>
+  <MediaId>2946</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>christophe girod</Author>
+  <Date>2006-6-10</Date>
+  <Location>Moloy (Combe de Bellefontaine)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3505</ObservationId2014>
+  <ImageId2014>13837</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

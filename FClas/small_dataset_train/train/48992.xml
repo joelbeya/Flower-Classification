@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36073</ObservationId>
+  <MediaId>48992</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>didier</Author>
+  <Date>2013-3-10</Date>
+  <Location>Pierrefitte-en-Auge</Location>
+  <Latitude>49.25717</Latitude>
+  <Longitude>0.19467</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4486</ObservationId2014>
+  <ImageId2014>33064</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

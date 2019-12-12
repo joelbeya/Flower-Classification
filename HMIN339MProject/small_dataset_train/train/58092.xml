@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40146</ObservationId>
+  <MediaId>58092</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>serge forestier</Author>
+  <Date>2012-4-1</Date>
+  <Location>Lourenties</Location>
+  <Latitude>43.29301</Latitude>
+  <Longitude>-0.15949</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12882</ObservationId2014>
+  <ImageId2014>14875</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

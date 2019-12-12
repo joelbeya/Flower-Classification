@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20965</ObservationId>
+  <MediaId>38464</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>genevieve botti</Author>
+  <Date>2006-6-9</Date>
+  <Location>Gresse-en-Vercors</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17867</ObservationId2014>
+  <ImageId2014>35454</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

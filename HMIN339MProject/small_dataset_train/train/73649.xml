@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>20005</ObservationId>
+  <MediaId>73649</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>967</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Hypochaeris</Genus>
+  <Species>Hypochaeris radicata L.</Species>
+  <Author>claire sutter</Author>
+  <Date>2012-10-13</Date>
+  <Location>Munchhausen</Location>
+  <Latitude>48.91393</Latitude>
+  <Longitude>8.14018</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>19423</ObservationId2014>
+  <ImageId2014>7979</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

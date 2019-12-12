@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1930</ObservationId>
+  <MediaId>13801</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>remi tournebize</Author>
+  <Date>2009-4-1</Date>
+  <Location />
+  <Latitude>45.88207</Latitude>
+  <Longitude>5.57618</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>2926</ObservationId2014>
+  <ImageId2014>14820</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

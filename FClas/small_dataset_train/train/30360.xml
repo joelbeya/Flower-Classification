@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22859</ObservationId>
+  <MediaId>30360</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>maxime</Author>
+  <Date>2013-4-13</Date>
+  <Location>Martigny-les-Bains</Location>
+  <Latitude>48.1185</Latitude>
+  <Longitude>5.83533</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4235</ObservationId2014>
+  <ImageId2014>12690</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

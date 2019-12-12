@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40485</ObservationId>
+  <MediaId>24616</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4369</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula veris L.</Species>
+  <Author>gerard calberac</Author>
+  <Date>2012-4-17</Date>
+  <Location>Couchey</Location>
+  <Latitude>47.26064</Latitude>
+  <Longitude>4.95998</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14836</ObservationId2014>
+  <ImageId2014>11037</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

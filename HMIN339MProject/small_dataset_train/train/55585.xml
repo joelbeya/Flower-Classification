@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>41143</ObservationId>
+  <MediaId>55585</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-6-5</Date>
+  <Location>Choisy-le-Roi</Location>
+  <Latitude>48.75601</Latitude>
+  <Longitude>2.41549</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14599</ObservationId2014>
+  <ImageId2014>37806</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14384</ObservationId>
+  <MediaId>109698</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30491</ClassId>
+  <Family>Violaceae</Family>
+  <Genus>Viola</Genus>
+  <Species>Viola tricolor L.</Species>
+  <Author>florent beck</Author>
+  <Date>2011-8-12</Date>
+  <Location>Saint-Sulpice-les-Feuilles</Location>
+  <Latitude>46.31868</Latitude>
+  <Longitude>1.36792</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18237</ObservationId2014>
+  <ImageId2014>25391</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

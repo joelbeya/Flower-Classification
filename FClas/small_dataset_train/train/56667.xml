@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31685</ObservationId>
+  <MediaId>56667</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-11-2</Date>
+  <Location>Bruniquel</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13522</ObservationId2014>
+  <ImageId2014>58457</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

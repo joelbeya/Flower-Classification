@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>33376</ObservationId>
+  <MediaId>31356</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>cedric rousseau</Author>
+  <Date>2011-5-22</Date>
+  <Location>Mont-d'Origny</Location>
+  <Latitude>49.86073</Latitude>
+  <Longitude>3.51219</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3714</ObservationId2014>
+  <ImageId2014>5345</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19863</ObservationId>
+  <MediaId>59046</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>jean-francois rouffet</Author>
+  <Date>2011-6-21</Date>
+  <Location>Belmont</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6993</ObservationId2014>
+  <ImageId2014>36593</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

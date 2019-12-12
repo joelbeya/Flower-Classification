@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5338</ObservationId>
+  <MediaId>10496</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2009-5-3</Date>
+  <Location>Saint-Étienne-Lardeyrol</Location>
+  <Latitude>45.09946</Latitude>
+  <Longitude>4.00366</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>19099</ObservationId2014>
+  <ImageId2014>28678</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

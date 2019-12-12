@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36733</ObservationId>
+  <MediaId>20917</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2011-9-13</Date>
+  <Location>Saint-Chély-d'Aubrac</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17129</ObservationId2014>
+  <ImageId2014>36448</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

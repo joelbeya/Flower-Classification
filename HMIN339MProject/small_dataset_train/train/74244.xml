@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24351</ObservationId>
+  <MediaId>74244</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2008-10-11</Date>
+  <Location>Vauxrenard</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4833</ObservationId2014>
+  <ImageId2014>53511</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

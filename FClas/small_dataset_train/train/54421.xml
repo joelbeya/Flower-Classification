@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1195</ObservationId>
+  <MediaId>54421</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>pierre bonnet</Author>
+  <Date>2013-6-27</Date>
+  <Location>Montferrier-sur-Lez</Location>
+  <Latitude>43.65167</Latitude>
+  <Longitude>3.86217</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5829</ObservationId2014>
+  <ImageId2014>12250</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

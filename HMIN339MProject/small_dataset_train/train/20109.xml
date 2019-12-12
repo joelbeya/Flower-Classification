@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28348</ObservationId>
+  <MediaId>20109</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4026</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Chelidonium</Genus>
+  <Species>Chelidonium majus L.</Species>
+  <Author>laurence gourdel</Author>
+  <Date>2013-5-10</Date>
+  <Location>Pornic</Location>
+  <Latitude>47.11148</Latitude>
+  <Longitude>-2.10125</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>267</ObservationId2014>
+  <ImageId2014>52028</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

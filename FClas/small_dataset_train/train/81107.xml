@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8841</ObservationId>
+  <MediaId>81107</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>michel riviere</Author>
+  <Date>2013-5-21</Date>
+  <Location>Saint-Laurent-d'Aigouze</Location>
+  <Latitude>43.63643</Latitude>
+  <Longitude>4.19564</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5562</ObservationId2014>
+  <ImageId2014>32461</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

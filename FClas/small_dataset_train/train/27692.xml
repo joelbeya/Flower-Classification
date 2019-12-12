@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39236</ObservationId>
+  <MediaId>27692</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>9930</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis helleborine (L.) Crantz</Species>
+  <Author>philippe burnel</Author>
+  <Date>2011-7-5</Date>
+  <Location>Canteleu</Location>
+  <Latitude>49.46091</Latitude>
+  <Longitude>1.04279</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11755</ObservationId2014>
+  <ImageId2014>15714</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

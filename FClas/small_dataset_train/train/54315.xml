@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13108</ObservationId>
+  <MediaId>54315</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>326</ClassId>
+  <Family>Aquifoliaceae</Family>
+  <Genus>Ilex</Genus>
+  <Species>Ilex aquifolium L.</Species>
+  <Author>thierry pernot</Author>
+  <Date>1800-1-1</Date>
+  <Location />
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14193</ObservationId2014>
+  <ImageId2014>15725</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

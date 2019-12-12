@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35319</ObservationId>
+  <MediaId>65400</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>louis madre</Author>
+  <Date>2014-8-1</Date>
+  <Location>Montigny-lès-Metz</Location>
+  <Latitude>49.10471</Latitude>
+  <Longitude>6.16032</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34039</ObservationId>
+  <MediaId>33942</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>mathieu sinet</Author>
+  <Date>1800-1-1</Date>
+  <Location>Vénès</Location>
+  <Latitude>43.72436</Latitude>
+  <Longitude>2.22319</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>19228</ObservationId2014>
+  <ImageId2014>37580</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

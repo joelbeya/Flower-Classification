@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29267</ObservationId>
+  <MediaId>36318</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>Unknown582</Author>
+  <Date>2013-5-1</Date>
+  <Location>Aix-en-Provence</Location>
+  <Latitude>43.5665</Latitude>
+  <Longitude>5.39483</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17508</ObservationId2014>
+  <ImageId2014>53067</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

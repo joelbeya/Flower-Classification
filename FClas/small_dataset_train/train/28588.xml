@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23303</ObservationId>
+  <MediaId>28588</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>cedric beauval</Author>
+  <Date>2013-5-9</Date>
+  <Location>Quirbajou</Location>
+  <Latitude>42.82881</Latitude>
+  <Longitude>2.17915</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>9505</ObservationId2014>
+  <ImageId2014>20275</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

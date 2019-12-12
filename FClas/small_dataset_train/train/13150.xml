@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19829</ObservationId>
+  <MediaId>13150</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8708</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Astrantia</Genus>
+  <Species>Astrantia major L.</Species>
+  <Author>mathilde duverger</Author>
+  <Date>2014-8-14</Date>
+  <Location>Sixt-Fer-à-Cheval</Location>
+  <Latitude>46.08948</Latitude>
+  <Longitude>6.83472</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

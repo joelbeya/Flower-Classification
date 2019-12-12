@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3591</ObservationId>
+  <MediaId>42925</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>vne college balzac neuilly sur marne</Author>
+  <Date>2013-5-27</Date>
+  <Location>Neuilly-sur-Marne</Location>
+  <Latitude>48.86038</Latitude>
+  <Longitude>2.53035</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13985</ObservationId2014>
+  <ImageId2014>6183</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34030</ObservationId>
+  <MediaId>87227</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30471</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys scolopax Cav.</Species>
+  <Author>paul fabre</Author>
+  <Date>2012-5-19</Date>
+  <Location>Les Vans</Location>
+  <Latitude>44.40758</Latitude>
+  <Longitude>4.16473</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18072</ObservationId2014>
+  <ImageId2014>2202</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

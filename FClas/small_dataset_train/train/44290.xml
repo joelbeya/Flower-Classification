@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5284</ObservationId>
+  <MediaId>44290</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>michel demares</Author>
+  <Date>2005-5-26</Date>
+  <Location>Allos</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14878</ObservationId2014>
+  <ImageId2014>24495</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

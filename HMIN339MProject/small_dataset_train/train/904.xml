@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>37581</ObservationId>
+  <MediaId>904</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>robin guidez</Author>
+  <Date>2013-4-15</Date>
+  <Location>Morlaix</Location>
+  <Latitude>48.61721</Latitude>
+  <Longitude>-3.84048</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17184</ObservationId2014>
+  <ImageId2014>39889</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

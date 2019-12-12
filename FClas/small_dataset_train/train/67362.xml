@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25812</ObservationId>
+  <MediaId>67362</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>Unknown523</Author>
+  <Date>2011-3-20</Date>
+  <Location>Pinet</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9920</ObservationId2014>
+  <ImageId2014>19233</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

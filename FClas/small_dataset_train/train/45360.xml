@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4473</ObservationId>
+  <MediaId>45360</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>326</ClassId>
+  <Family>Aquifoliaceae</Family>
+  <Genus>Ilex</Genus>
+  <Species>Ilex aquifolium L.</Species>
+  <Author>mathieu sinet</Author>
+  <Date>1800-1-1</Date>
+  <Location>Roquecourbe</Location>
+  <Latitude>43.67333</Latitude>
+  <Longitude>2.28668</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5963</ObservationId2014>
+  <ImageId2014>34274</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

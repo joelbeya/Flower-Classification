@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39454</ObservationId>
+  <MediaId>64325</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6564</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Serapias</Genus>
+  <Species>Serapias vomeracea (Burm.f.) Briq.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-4-21</Date>
+  <Location>Buzet-sur-Tarn</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>363</ObservationId2014>
+  <ImageId2014>38960</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

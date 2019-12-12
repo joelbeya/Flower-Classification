@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32389</ObservationId>
+  <MediaId>106857</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2007-3-24</Date>
+  <Location>Mons</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16454</ObservationId2014>
+  <ImageId2014>42801</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

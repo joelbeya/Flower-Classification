@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15412</ObservationId>
+  <MediaId>57949</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>32201</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys virescens Philippe</Species>
+  <Author>mathieu sinet</Author>
+  <Date>2013-4-19</Date>
+  <Location />
+  <Latitude>43.54002</Latitude>
+  <Longitude>2.29104</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17578</ObservationId2014>
+  <ImageId2014>47662</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

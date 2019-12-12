@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15786</ObservationId>
+  <MediaId>26800</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>Unknown649</Author>
+  <Date>2013-5-18</Date>
+  <Location>Vidauban</Location>
+  <Latitude>43.41269</Latitude>
+  <Longitude>6.38882</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>102</ObservationId2014>
+  <ImageId2014>35193</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11678</ObservationId>
+  <MediaId>30552</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2009-5-31</Date>
+  <Location>Pied-de-Borne</Location>
+  <Latitude>44.47554</Latitude>
+  <Longitude>3.98358</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13126</ObservationId2014>
+  <ImageId2014>59216</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

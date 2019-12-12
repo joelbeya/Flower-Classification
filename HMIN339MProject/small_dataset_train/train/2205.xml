@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1836</ObservationId>
+  <MediaId>2205</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-6-28</Date>
+  <Location>Paris</Location>
+  <Latitude>48.86367</Latitude>
+  <Longitude>2.3125</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17335</ObservationId2014>
+  <ImageId2014>38890</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

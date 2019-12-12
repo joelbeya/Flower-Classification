@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16588</ObservationId>
+  <MediaId>16587</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>dominique remaud</Author>
+  <Date>2012-6-19</Date>
+  <Location>Mézières-en-Brenne</Location>
+  <Latitude>46.85194</Latitude>
+  <Longitude>1.06862</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>8216</ObservationId2014>
+  <ImageId2014>27295</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

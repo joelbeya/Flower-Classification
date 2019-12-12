@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2904</ObservationId>
+  <MediaId>39921</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>967</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Hypochaeris</Genus>
+  <Species>Hypochaeris radicata L.</Species>
+  <Author>jean-paul hugbart</Author>
+  <Date>2014-4-20</Date>
+  <Location>Chalon-sur-Saône</Location>
+  <Latitude>46.78316</Latitude>
+  <Longitude>4.86418</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

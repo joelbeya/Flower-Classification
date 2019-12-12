@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32569</ObservationId>
+  <MediaId>8853</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2013-6-23</Date>
+  <Location>Margès</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12460</ObservationId2014>
+  <ImageId2014>35628</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16470</ObservationId>
+  <MediaId>70462</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>jean-claude calais</Author>
+  <Date>2012-6-23</Date>
+  <Location>Javols</Location>
+  <Latitude>44.70559</Latitude>
+  <Longitude>3.29612</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

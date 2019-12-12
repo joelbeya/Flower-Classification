@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>37949</ObservationId>
+  <MediaId>80623</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-7-13</Date>
+  <Location>Pego</Location>
+  <Latitude>38.8769</Latitude>
+  <Longitude>-0.05687</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14480</ObservationId2014>
+  <ImageId2014>26968</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

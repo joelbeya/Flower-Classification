@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36102</ObservationId>
+  <MediaId>77712</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>661</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cichorium</Genus>
+  <Species>Cichorium intybus L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-8-8</Date>
+  <Location>Sainte-Geneviève-des-Bois</Location>
+  <Latitude>48.64801</Latitude>
+  <Longitude>2.33587</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4884</ObservationId2014>
+  <ImageId2014>16475</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

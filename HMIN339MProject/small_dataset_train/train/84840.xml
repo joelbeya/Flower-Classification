@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17287</ObservationId>
+  <MediaId>84840</MediaId>
+  <Vote>4.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>jacques marechal</Author>
+  <Date>2013-3-22</Date>
+  <Location>La Chapelle-Saint-Mesmin</Location>
+  <Latitude>47.87376</Latitude>
+  <Longitude>1.81436</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18764</ObservationId2014>
+  <ImageId2014>31504</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

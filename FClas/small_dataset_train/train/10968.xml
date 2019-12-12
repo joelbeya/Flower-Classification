@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11786</ObservationId>
+  <MediaId>10968</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6448</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis atrorubens (Hoffm.) Besser</Species>
+  <Author>fabienne paire</Author>
+  <Date>2014-8-22</Date>
+  <Location>Saint-Pierre-de-Chartreuse</Location>
+  <Latitude>45.34137</Latitude>
+  <Longitude>5.81565</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

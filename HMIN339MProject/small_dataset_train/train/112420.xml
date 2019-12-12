@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29822</ObservationId>
+  <MediaId>112420</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>Unknown286</Author>
+  <Date>2012-4-1</Date>
+  <Location>Prompsat</Location>
+  <Latitude>45.93883</Latitude>
+  <Longitude>3.08032</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6339</ObservationId2014>
+  <ImageId2014>22349</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

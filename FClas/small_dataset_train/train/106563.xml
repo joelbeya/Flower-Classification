@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2435</ObservationId>
+  <MediaId>106563</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>9930</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis helleborine (L.) Crantz</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-7-14</Date>
+  <Location>Le Mans</Location>
+  <Latitude>48.0327</Latitude>
+  <Longitude>0.18483</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>966</ObservationId2014>
+  <ImageId2014>34679</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

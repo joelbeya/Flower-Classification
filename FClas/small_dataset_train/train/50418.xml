@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11258</ObservationId>
+  <MediaId>50418</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2005-7-8</Date>
+  <Location>Loudenvielle</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16472</ObservationId2014>
+  <ImageId2014>5938</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

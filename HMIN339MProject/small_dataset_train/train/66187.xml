@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35666</ObservationId>
+  <MediaId>66187</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4369</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula veris L.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2013-4-1</Date>
+  <Location>Marcy-l'Étoile</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5365</ObservationId2014>
+  <ImageId2014>59689</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

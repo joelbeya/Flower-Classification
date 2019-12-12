@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12003</ObservationId>
+  <MediaId>100653</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6564</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Serapias</Genus>
+  <Species>Serapias vomeracea (Burm.f.) Briq.</Species>
+  <Author>bertrand aucouturier</Author>
+  <Date>2013-6-22</Date>
+  <Location>Roumengoux</Location>
+  <Latitude>43.07223</Latitude>
+  <Longitude>1.93472</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>6888</ObservationId2014>
+  <ImageId2014>8902</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

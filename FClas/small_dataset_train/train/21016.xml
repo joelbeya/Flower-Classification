@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28198</ObservationId>
+  <MediaId>21016</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>cb16ff5a4aec49f5117dc1aa2c95e566</Author>
+  <Date>2013-3-15</Date>
+  <Location>Montcaret</Location>
+  <Latitude>44.8615</Latitude>
+  <Longitude>0.05583</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>19294</ObservationId2014>
+  <ImageId2014>19165</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35626</ObservationId>
+  <MediaId>84775</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6564</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Serapias</Genus>
+  <Species>Serapias vomeracea (Burm.f.) Briq.</Species>
+  <Author>robert leras</Author>
+  <Date>2004-5-10</Date>
+  <Location>Fréjus</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1223</ObservationId2014>
+  <ImageId2014>26698</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

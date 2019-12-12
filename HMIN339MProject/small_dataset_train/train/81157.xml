@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>66</ObservationId>
+  <MediaId>81157</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>mathieu menand</Author>
+  <Date>2010-4-10</Date>
+  <Location>Castelnau-de-Guers</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3067</ObservationId2014>
+  <ImageId2014>12005</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

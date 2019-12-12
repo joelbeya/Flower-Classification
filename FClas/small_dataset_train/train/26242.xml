@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>10351</ObservationId>
+  <MediaId>26242</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>michel riviere</Author>
+  <Date>2013-5-6</Date>
+  <Location>Calvisson</Location>
+  <Latitude>43.75533</Latitude>
+  <Longitude>4.22717</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>19053</ObservationId2014>
+  <ImageId2014>7027</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

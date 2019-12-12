@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31504</ObservationId>
+  <MediaId>11091</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>Unknown239</Author>
+  <Date>2013-4-13</Date>
+  <Location>Liessies</Location>
+  <Latitude>50.0925</Latitude>
+  <Longitude>4.07817</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1110</ObservationId2014>
+  <ImageId2014>29727</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

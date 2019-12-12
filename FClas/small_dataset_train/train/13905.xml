@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27428</ObservationId>
+  <MediaId>13905</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>michel demares</Author>
+  <Date>2008-5-8</Date>
+  <Location>Montrieux</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15458</ObservationId2014>
+  <ImageId2014>9571</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

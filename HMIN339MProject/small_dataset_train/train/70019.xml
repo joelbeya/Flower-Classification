@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26323</ObservationId>
+  <MediaId>70019</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6448</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis atrorubens (Hoffm.) Besser</Species>
+  <Author>paul fabre</Author>
+  <Date>2011-6-25</Date>
+  <Location>Malons-et-Elze</Location>
+  <Latitude>44.42891</Latitude>
+  <Longitude>4.0052</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16254</ObservationId2014>
+  <ImageId2014>31962</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4107</ObservationId>
+  <MediaId>60133</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-5-9</Date>
+  <Location>La Canourgue</Location>
+  <Latitude>44.44222</Latitude>
+  <Longitude>3.23861</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13989</ObservationId2014>
+  <ImageId2014>2847</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

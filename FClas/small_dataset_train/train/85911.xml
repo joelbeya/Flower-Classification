@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>18883</ObservationId>
+  <MediaId>85911</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>robert leras</Author>
+  <Date>2004-4-19</Date>
+  <Location>Riboux</Location>
+  <Latitude>43.30195</Latitude>
+  <Longitude>5.75334</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17492</ObservationId2014>
+  <ImageId2014>6179</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

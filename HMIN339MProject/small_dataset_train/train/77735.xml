@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2701</ObservationId>
+  <MediaId>77735</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-8-10</Date>
+  <Location>Arras</Location>
+  <Latitude>50.28434</Latitude>
+  <Longitude>2.78116</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15282</ObservationId2014>
+  <ImageId2014>54756</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

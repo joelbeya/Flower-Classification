@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21584</ObservationId>
+  <MediaId>86809</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2013-10-13</Date>
+  <Location>Rochetaillée-sur-Saône</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17922</ObservationId2014>
+  <ImageId2014>55432</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

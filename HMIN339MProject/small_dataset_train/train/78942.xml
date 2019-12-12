@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7223</ObservationId>
+  <MediaId>78942</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2011-7-1</Date>
+  <Location>Colombier</Location>
+  <Latitude>45.38276</Latitude>
+  <Longitude>4.57719</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3679</ObservationId2014>
+  <ImageId2014>2725</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

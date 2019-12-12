@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17805</ObservationId>
+  <MediaId>10124</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>jame lagarrigue</Author>
+  <Date>2011-4-30</Date>
+  <Location>Saint-Germain-de-Calberte</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6365</ObservationId2014>
+  <ImageId2014>35828</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

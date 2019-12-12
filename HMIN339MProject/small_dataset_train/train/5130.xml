@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21061</ObservationId>
+  <MediaId>5130</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>samantha bazan</Author>
+  <Date>2013-5-9</Date>
+  <Location>Salles-sur-l'Hers</Location>
+  <Latitude>43.2925</Latitude>
+  <Longitude>1.78639</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11974</ObservationId2014>
+  <ImageId2014>51312</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

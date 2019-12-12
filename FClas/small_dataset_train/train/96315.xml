@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>9369</ObservationId>
+  <MediaId>96315</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-4-29</Date>
+  <Location>Clapiers</Location>
+  <Latitude>43.66087</Latitude>
+  <Longitude>3.87055</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3043</ObservationId2014>
+  <ImageId2014>35335</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25118</ObservationId>
+  <MediaId>95306</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2010-6-4</Date>
+  <Location>Bourret</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9823</ObservationId2014>
+  <ImageId2014>20655</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

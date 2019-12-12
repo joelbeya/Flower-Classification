@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>6894</ObservationId>
+  <MediaId>89201</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4460</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone hepatica L.</Species>
+  <Author>jim</Author>
+  <Date>2013-5-2</Date>
+  <Location>Digne-les-Bains</Location>
+  <Latitude>44.09967</Latitude>
+  <Longitude>6.25267</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18952</ObservationId2014>
+  <ImageId2014>42079</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

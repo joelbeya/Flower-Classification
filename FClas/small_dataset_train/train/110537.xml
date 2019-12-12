@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2447</ObservationId>
+  <MediaId>110537</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6425</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Cypripedium</Genus>
+  <Species>Cypripedium calceolus L.</Species>
+  <Author>christophe girod</Author>
+  <Date>2008-1-21</Date>
+  <Location>Moloy</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15520</ObservationId2014>
+  <ImageId2014>4004</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

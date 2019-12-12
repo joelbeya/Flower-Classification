@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11093</ObservationId>
+  <MediaId>96531</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>326</ClassId>
+  <Family>Aquifoliaceae</Family>
+  <Genus>Ilex</Genus>
+  <Species>Ilex aquifolium L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2009-5-17</Date>
+  <Location>Castans</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>8163</ObservationId2014>
+  <ImageId2014>54960</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

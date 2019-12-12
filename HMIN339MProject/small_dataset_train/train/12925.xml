@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>4794</ObservationId>
+  <MediaId>12925</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>9930</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis helleborine (L.) Crantz</Species>
+  <Author>cedric rousseau</Author>
+  <Date>2008-7-23</Date>
+  <Location>Saint-Saulve</Location>
+  <Latitude>50.38179</Latitude>
+  <Longitude>3.55105</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>14425</ObservationId2014>
+  <ImageId2014>18198</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22557</ObservationId>
+  <MediaId>27895</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4477</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone alpina L.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2008-7-13</Date>
+  <Location>Pralognan-la-Vanoise</Location>
+  <Latitude>45.3621</Latitude>
+  <Longitude>6.69711</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>18378</ObservationId2014>
+  <ImageId2014>7857</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

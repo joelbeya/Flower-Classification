@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40799</ObservationId>
+  <MediaId>68906</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>9930</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Epipactis</Genus>
+  <Species>Epipactis helleborine (L.) Crantz</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2013-8-3</Date>
+  <Location>Mézières-sur-Ponthouin</Location>
+  <Latitude>48.19164</Latitude>
+  <Longitude>0.29337</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4925</ObservationId2014>
+  <ImageId2014>15195</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

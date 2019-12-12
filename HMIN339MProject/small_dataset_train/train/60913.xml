@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32584</ObservationId>
+  <MediaId>60913</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>marie therese goupil</Author>
+  <Date>2012-5-12</Date>
+  <Location>Narbonne</Location>
+  <Latitude>43.12741</Latitude>
+  <Longitude>2.8984</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14012</ObservationId2014>
+  <ImageId2014>41480</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

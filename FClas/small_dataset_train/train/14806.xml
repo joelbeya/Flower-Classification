@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27624</ObservationId>
+  <MediaId>14806</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>guy libante</Author>
+  <Date>2013-6-1</Date>
+  <Location>Lormont</Location>
+  <Latitude>44.87898</Latitude>
+  <Longitude>-0.52238</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15551</ObservationId2014>
+  <ImageId2014>53732</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1159</ObservationId>
+  <MediaId>45997</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>sebastien ramsay</Author>
+  <Date>2008-5-26</Date>
+  <Location>Marcoux</Location>
+  <Latitude>44.13853</Latitude>
+  <Longitude>6.29105</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11478</ObservationId2014>
+  <ImageId2014>44082</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34679</ObservationId>
+  <MediaId>44737</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30269</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Papaver</Genus>
+  <Species>Papaver rhoeas L.</Species>
+  <Author>john de vos</Author>
+  <Date>2008-5-24</Date>
+  <Location>Saint-Mathieu-de-Tréviers</Location>
+  <Latitude>43.76331</Latitude>
+  <Longitude>3.87633</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5926</ObservationId2014>
+  <ImageId2014>16568</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

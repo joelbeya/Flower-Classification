@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16194</ObservationId>
+  <MediaId>112309</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>marie portas</Author>
+  <Date>2010-7-1</Date>
+  <Location>Valdeblore</Location>
+  <Latitude>44.07951</Latitude>
+  <Longitude>7.21922</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>16412</ObservationId2014>
+  <ImageId2014>16065</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

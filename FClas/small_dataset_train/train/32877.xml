@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38729</ObservationId>
+  <MediaId>32877</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>14867</ClassId>
+  <Family>Liliaceae</Family>
+  <Genus>Tulipa</Genus>
+  <Species>Tulipa sylvestris L.</Species>
+  <Author>julien barataud</Author>
+  <Date>2007-4-7</Date>
+  <Location>Opoul-Périllos</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13919</ObservationId2014>
+  <ImageId2014>51918</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

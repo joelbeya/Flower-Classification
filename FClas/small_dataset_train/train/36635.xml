@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7312</ObservationId>
+  <MediaId>36635</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>christophe chauvigne</Author>
+  <Date>2012-5-6</Date>
+  <Location>Pernay</Location>
+  <Latitude>47.47081</Latitude>
+  <Longitude>0.54211</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16065</ObservationId2014>
+  <ImageId2014>50049</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

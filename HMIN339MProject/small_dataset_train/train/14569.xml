@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>1916</ObservationId>
+  <MediaId>14569</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6418</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum robertianum (Loisel.) P.Delforge</Species>
+  <Author>marie portas</Author>
+  <Date>2012-3-19</Date>
+  <Location>Hyères</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>6710</ObservationId2014>
+  <ImageId2014>27117</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

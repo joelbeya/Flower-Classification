@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31048</ObservationId>
+  <MediaId>82654</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>29957</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Aquilegia</Genus>
+  <Species>Aquilegia vulgaris L.</Species>
+  <Author>antoine masseau</Author>
+  <Date>2011-5-18</Date>
+  <Location>Sainte-Marie-Kerque</Location>
+  <Latitude>50.89737</Latitude>
+  <Longitude>2.13769</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16017</ObservationId2014>
+  <ImageId2014>38363</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

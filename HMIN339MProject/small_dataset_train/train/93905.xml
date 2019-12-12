@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17234</ObservationId>
+  <MediaId>93905</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6564</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Serapias</Genus>
+  <Species>Serapias vomeracea (Burm.f.) Briq.</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-5-24</Date>
+  <Location>Berrias-et-Casteljau</Location>
+  <Latitude>44.38669</Latitude>
+  <Longitude>4.20255</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11759</ObservationId2014>
+  <ImageId2014>36335</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

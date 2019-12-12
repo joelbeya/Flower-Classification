@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>21853</ObservationId>
+  <MediaId>70262</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2013-5-19</Date>
+  <Location>Athis-Mons</Location>
+  <Latitude>48.70368</Latitude>
+  <Longitude>2.38234</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10764</ObservationId2014>
+  <ImageId2014>17729</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

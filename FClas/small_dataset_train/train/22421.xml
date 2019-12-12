@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24412</ObservationId>
+  <MediaId>22421</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>joceline chappert-bessiere</Author>
+  <Date>2012-6-8</Date>
+  <Location>65-ASTE</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5497</ObservationId2014>
+  <ImageId2014>2957</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

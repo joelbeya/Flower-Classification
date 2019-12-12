@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40990</ObservationId>
+  <MediaId>108155</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-5-23</Date>
+  <Location>Malons-et-Elze</Location>
+  <Latitude>44.43114</Latitude>
+  <Longitude>3.98842</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3113</ObservationId2014>
+  <ImageId2014>39129</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

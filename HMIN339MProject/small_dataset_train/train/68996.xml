@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5957</ObservationId>
+  <MediaId>68996</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2013-6-16</Date>
+  <Location>Auvers-Saint-Georges</Location>
+  <Latitude>48.48958</Latitude>
+  <Longitude>2.23014</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>758</ObservationId2014>
+  <ImageId2014>22619</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

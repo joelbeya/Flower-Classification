@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27131</ObservationId>
+  <MediaId>93376</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>marie portas</Author>
+  <Date>2011-5-24</Date>
+  <Location>Saint-Remèze</Location>
+  <Latitude>44.38333</Latitude>
+  <Longitude>4.5</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>11929</ObservationId2014>
+  <ImageId2014>50260</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

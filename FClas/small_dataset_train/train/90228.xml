@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>25817</ObservationId>
+  <MediaId>90228</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4353</ClassId>
+  <Family>Primulaceae</Family>
+  <Genus>Primula</Genus>
+  <Species>Primula vulgaris Huds.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-4-1</Date>
+  <Location>Meyssiès</Location>
+  <Latitude>48.84187</Latitude>
+  <Longitude>2.22709</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12735</ObservationId2014>
+  <ImageId2014>57868</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

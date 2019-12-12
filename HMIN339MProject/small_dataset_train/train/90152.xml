@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32407</ObservationId>
+  <MediaId>90152</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6535</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis mascula (L.) L.</Species>
+  <Author>jean-jacques houdre</Author>
+  <Date>2012-5-10</Date>
+  <Location>Chanac</Location>
+  <Latitude>44.42222</Latitude>
+  <Longitude>3.35278</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>7078</ObservationId2014>
+  <ImageId2014>35370</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

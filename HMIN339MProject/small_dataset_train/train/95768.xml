@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39336</ObservationId>
+  <MediaId>95768</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>326</ClassId>
+  <Family>Aquifoliaceae</Family>
+  <Genus>Ilex</Genus>
+  <Species>Ilex aquifolium L.</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2011-11-1</Date>
+  <Location>Pontault-Combault</Location>
+  <Latitude>48.77189</Latitude>
+  <Longitude>2.64625</Longitude>
+  <YearInCLEF>ImageCLEF2012</YearInCLEF>
+  <ObservationId2014>5388</ObservationId2014>
+  <ImageId2014>29399</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

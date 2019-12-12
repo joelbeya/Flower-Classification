@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>596</ObservationId>
+  <MediaId>55163</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>jonathan dobigeon</Author>
+  <Date>2013-3-9</Date>
+  <Location>Le Marillais</Location>
+  <Latitude>47.35688</Latitude>
+  <Longitude>-1.05831</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>5465</ObservationId2014>
+  <ImageId2014>16057</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

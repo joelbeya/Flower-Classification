@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>10750</ObservationId>
+  <MediaId>37283</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>claude figureau</Author>
+  <Date>2004-5-22</Date>
+  <Location>Aude Bucharach</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14385</ObservationId2014>
+  <ImageId2014>50623</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31863</ObservationId>
+  <MediaId>95061</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30491</ClassId>
+  <Family>Violaceae</Family>
+  <Genus>Viola</Genus>
+  <Species>Viola tricolor L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2010-7-4</Date>
+  <Location>Eyne</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15390</ObservationId2014>
+  <ImageId2014>25995</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

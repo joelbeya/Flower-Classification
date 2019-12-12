@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3058</ObservationId>
+  <MediaId>37805</MediaId>
+  <Vote>3.67</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>christophe pecout</Author>
+  <Date>2007-5-18</Date>
+  <Location>Lachapelle-Auzac</Location>
+  <Latitude>44.96159</Latitude>
+  <Longitude>1.44513</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13116</ObservationId2014>
+  <ImageId2014>47740</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

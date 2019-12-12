@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11555</ObservationId>
+  <MediaId>92530</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>claude figureau</Author>
+  <Date>2004-5-20</Date>
+  <Location>Ermitage Cases de Pene</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>13001</ObservationId2014>
+  <ImageId2014>37244</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

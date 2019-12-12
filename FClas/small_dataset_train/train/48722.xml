@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11980</ObservationId>
+  <MediaId>48722</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4436</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Clematis</Genus>
+  <Species>Clematis vitalba L.</Species>
+  <Author>ans gorter</Author>
+  <Date>2011-7-16</Date>
+  <Location>11 Molleville</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>13454</ObservationId2014>
+  <ImageId2014>58435</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>38640</ObservationId>
+  <MediaId>44881</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>bernard andrieu</Author>
+  <Date>2013-4-14</Date>
+  <Location>Villemagne-l'Argentière</Location>
+  <Latitude>43.62809</Latitude>
+  <Longitude>3.12428</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>8825</ObservationId2014>
+  <ImageId2014>26503</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

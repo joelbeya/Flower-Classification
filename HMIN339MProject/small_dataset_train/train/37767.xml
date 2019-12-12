@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3018</ObservationId>
+  <MediaId>37767</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>daniel mathieu</Author>
+  <Date>2011-5-7</Date>
+  <Location>Lodève</Location>
+  <Latitude>43.69809</Latitude>
+  <Longitude>3.33138</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>14750</ObservationId2014>
+  <ImageId2014>51486</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

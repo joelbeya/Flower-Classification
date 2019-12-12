@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>14895</ObservationId>
+  <MediaId>7873</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>32201</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys virescens Philippe</Species>
+  <Author>marc seguin</Author>
+  <Date>2013-4-14</Date>
+  <Location>Montpellier</Location>
+  <Latitude>43.6317</Latitude>
+  <Longitude>3.89251</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10420</ObservationId2014>
+  <ImageId2014>6127</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

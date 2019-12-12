@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>40229</ObservationId>
+  <MediaId>104115</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>christophe girod</Author>
+  <Date>2003-6-4</Date>
+  <Location>Gruissan (Puech Redon) (11)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>76</ObservationId2014>
+  <ImageId2014>22433</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

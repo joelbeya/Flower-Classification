@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27145</ObservationId>
+  <MediaId>76311</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>151</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Daucus</Genus>
+  <Species>Daucus carota L.</Species>
+  <Author>genevieve girod</Author>
+  <Date>2012-6-20</Date>
+  <Location>Meyzieu</Location>
+  <Latitude>45.77615</Latitude>
+  <Longitude>5.00521</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1429</ObservationId2014>
+  <ImageId2014>37346</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

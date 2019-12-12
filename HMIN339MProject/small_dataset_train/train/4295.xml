@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>16672</ObservationId>
+  <MediaId>4295</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6487</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys apifera Huds.</Species>
+  <Author>Unknown599</Author>
+  <Date>2012-6-6</Date>
+  <Location>Créteil</Location>
+  <Latitude>48.78342</Latitude>
+  <Longitude>2.45756</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3801</ObservationId2014>
+  <ImageId2014>35815</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

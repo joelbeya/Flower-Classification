@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>2481</ObservationId>
+  <MediaId>50131</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>786</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Eupatorium</Genus>
+  <Species>Eupatorium cannabinum L.</Species>
+  <Author>claire sutter</Author>
+  <Date>2009-7-1</Date>
+  <Location>Hochfelden</Location>
+  <Latitude>48.74974</Latitude>
+  <Longitude>7.57799</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>5623</ObservationId2014>
+  <ImageId2014>57257</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

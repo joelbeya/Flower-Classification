@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>29360</ObservationId>
+  <MediaId>4133</MediaId>
+  <Vote>2.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>967</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Hypochaeris</Genus>
+  <Species>Hypochaeris radicata L.</Species>
+  <Author>jean-luc gorremans</Author>
+  <Date>2012-5-28</Date>
+  <Location>Athis-Mons</Location>
+  <Latitude>48.6985</Latitude>
+  <Longitude>2.37857</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7613</ObservationId2014>
+  <ImageId2014>53468</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

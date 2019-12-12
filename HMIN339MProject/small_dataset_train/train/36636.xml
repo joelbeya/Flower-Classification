@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>24172</ObservationId>
+  <MediaId>36636</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>588</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea jacea L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2014-5-14</Date>
+  <Location>Palaiseau</Location>
+  <Latitude>48.71446</Latitude>
+  <Longitude>2.20658</Longitude>
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

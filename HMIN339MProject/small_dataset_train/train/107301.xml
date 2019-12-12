@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>15750</ObservationId>
+  <MediaId>107301</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>francois robin</Author>
+  <Date>2009-9-27</Date>
+  <Location>Bourgneuf-en-Retz</Location>
+  <Latitude>47.03457</Latitude>
+  <Longitude>-1.98554</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>18010</ObservationId2014>
+  <ImageId2014>53086</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

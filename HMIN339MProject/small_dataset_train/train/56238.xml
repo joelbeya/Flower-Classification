@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>39151</ObservationId>
+  <MediaId>56238</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>emmanuel stratmains</Author>
+  <Date>2012-6-20</Date>
+  <Location>Neuville-sur-Sarthe</Location>
+  <Latitude>48.07604</Latitude>
+  <Longitude>0.21445</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15825</ObservationId2014>
+  <ImageId2014>4608</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

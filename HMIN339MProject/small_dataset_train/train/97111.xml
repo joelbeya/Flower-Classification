@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>34583</ObservationId>
+  <MediaId>97111</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2430</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Helianthemum</Genus>
+  <Species>Helianthemum nummularium (L.) Mill.</Species>
+  <Author>lea wegwitz</Author>
+  <Date>2005-5-9</Date>
+  <Location>Pierrefeu</Location>
+  <Latitude>43.87446</Latitude>
+  <Longitude>7.0776</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10027</ObservationId2014>
+  <ImageId2014>27132</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12243</ObservationId>
+  <MediaId>23562</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>malicia besnard</Author>
+  <Date>2011-4-20</Date>
+  <Location>Clapiers</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>17709</ObservationId2014>
+  <ImageId2014>21345</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

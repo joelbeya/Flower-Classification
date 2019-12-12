@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27191</ObservationId>
+  <MediaId>27069</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>691</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cirsium</Genus>
+  <Species>Cirsium vulgare (Savi) Ten.</Species>
+  <Author>laurent petit</Author>
+  <Date>2009-8-11</Date>
+  <Location>Mouthe</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12447</ObservationId2014>
+  <ImageId2014>43153</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

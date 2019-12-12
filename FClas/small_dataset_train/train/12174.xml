@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36602</ObservationId>
+  <MediaId>12174</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>genevieve botti</Author>
+  <Date>2013-4-16</Date>
+  <Location>Marseille</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>15324</ObservationId2014>
+  <ImageId2014>39694</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

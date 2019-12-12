@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>3393</ObservationId>
+  <MediaId>49094</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>mathieu menand</Author>
+  <Date>2008-7-6</Date>
+  <Location>Gruissan</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>17641</ObservationId2014>
+  <ImageId2014>33761</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

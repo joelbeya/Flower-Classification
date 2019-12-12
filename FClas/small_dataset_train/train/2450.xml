@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13250</ObservationId>
+  <MediaId>2450</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>1047</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Leucanthemum</Genus>
+  <Species>Leucanthemum vulgare Lam.</Species>
+  <Author>lawrence fillion</Author>
+  <Date>2013-6-29</Date>
+  <Location>La Malbaie</Location>
+  <Latitude>47.6781</Latitude>
+  <Longitude>-70.07657</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3313</ObservationId2014>
+  <ImageId2014>41204</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

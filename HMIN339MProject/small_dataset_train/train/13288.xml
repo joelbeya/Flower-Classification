@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31027</ObservationId>
+  <MediaId>13288</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>alain bigou</Author>
+  <Date>2012-6-21</Date>
+  <Location>Jujols</Location>
+  <Latitude>42.57105</Latitude>
+  <Longitude>2.29537</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>2681</ObservationId2014>
+  <ImageId2014>52733</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>33130</ObservationId>
+  <MediaId>65177</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4460</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone hepatica L.</Species>
+  <Author>robert leras</Author>
+  <Date>2004-4-28</Date>
+  <Location>Bédoin</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7444</ObservationId2014>
+  <ImageId2014>915</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

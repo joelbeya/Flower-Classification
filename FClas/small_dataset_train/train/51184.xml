@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27694</ObservationId>
+  <MediaId>51184</MediaId>
+  <Vote>3.5</Vote>
+  <Content>Flower</Content>
+  <ClassId>4411</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone nemorosa L.</Species>
+  <Author>pierre walther</Author>
+  <Date>2011-3-11</Date>
+  <Location>Flaxlanden</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>10197</ObservationId2014>
+  <ImageId2014>46910</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

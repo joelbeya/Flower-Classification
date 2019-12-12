@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>27064</ObservationId>
+  <MediaId>96719</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6437</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza maculata (L.) Soó</Species>
+  <Author>raymond hallot</Author>
+  <Date>2012-6-17</Date>
+  <Location>Les Essarts-le-Roi</Location>
+  <Latitude>48.71904</Latitude>
+  <Longitude>1.91368</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>16401</ObservationId2014>
+  <ImageId2014>66</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

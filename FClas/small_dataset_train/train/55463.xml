@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>35291</ObservationId>
+  <MediaId>55463</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>annie jouaud</Author>
+  <Date>2012-4-19</Date>
+  <Location>Nantes</Location>
+  <Latitude>47.15984</Latitude>
+  <Longitude>-1.51611</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4510</ObservationId2014>
+  <ImageId2014>6773</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

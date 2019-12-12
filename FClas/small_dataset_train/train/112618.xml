@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>7644</ObservationId>
+  <MediaId>112618</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4034</ClassId>
+  <Family>Papaveraceae</Family>
+  <Genus>Glaucium</Genus>
+  <Species>Glaucium flavum Crantz</Species>
+  <Author>genevieve botti</Author>
+  <Date>2012-5-17</Date>
+  <Location>Marseille</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>5607</ObservationId2014>
+  <ImageId2014>17544</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>12028</ObservationId>
+  <MediaId>53019</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>1286</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Urospermum</Genus>
+  <Species>Urospermum dalechampii (L.) Scop. ex F.W.Schmidt</Species>
+  <Author>john de vos</Author>
+  <Date>2011-4-16</Date>
+  <Location>Saint-Mathieu-de-Tréviers</Location>
+  <Latitude>43.76982</Latitude>
+  <Longitude>3.86805</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>198</ObservationId2014>
+  <ImageId2014>57819</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

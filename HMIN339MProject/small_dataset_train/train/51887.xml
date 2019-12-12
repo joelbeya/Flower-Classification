@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17702</ObservationId>
+  <MediaId>51887</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6538</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis morio (L.) R.M.Bateman, Pridgeon &amp; M.W.Chase</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2008-5-19</Date>
+  <Location>La Cavalerie</Location>
+  <Latitude>44.02492</Latitude>
+  <Longitude>3.30414</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>8020</ObservationId2014>
+  <ImageId2014>46581</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

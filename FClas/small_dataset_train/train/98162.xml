@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19476</ObservationId>
+  <MediaId>98162</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>pierre walther</Author>
+  <Date>2011-5-16</Date>
+  <Location>Flaxlanden</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3466</ObservationId2014>
+  <ImageId2014>31661</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

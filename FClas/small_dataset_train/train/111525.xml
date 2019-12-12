@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8778</ObservationId>
+  <MediaId>111525</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8600</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Anacamptis</Genus>
+  <Species>Anacamptis pyramidalis (L.) Rich.</Species>
+  <Author>paul fabre</Author>
+  <Date>2010-4-29</Date>
+  <Location>Clapiers</Location>
+  <Latitude>43.66087</Latitude>
+  <Longitude>3.87055</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>4770</ObservationId2014>
+  <ImageId2014>15084</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

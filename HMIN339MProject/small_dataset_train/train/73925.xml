@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>19264</ObservationId>
+  <MediaId>73925</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>6512</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys lutea Cav.</Species>
+  <Author>gilles salama</Author>
+  <Date>2013-4-28</Date>
+  <Location>Caucalieres</Location>
+  <Latitude>43.5283</Latitude>
+  <Longitude>2.30335</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1775</ObservationId2014>
+  <ImageId2014>46162</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

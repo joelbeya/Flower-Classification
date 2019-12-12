@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>8392</ObservationId>
+  <MediaId>97783</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>4460</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Anemone</Genus>
+  <Species>Anemone hepatica L.</Species>
+  <Author>Unknown368</Author>
+  <Date>2013-5-1</Date>
+  <Location>Pralognan-la-Vanoise</Location>
+  <Latitude>45.378</Latitude>
+  <Longitude>6.7235</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>10291</ObservationId2014>
+  <ImageId2014>56411</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

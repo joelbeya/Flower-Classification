@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>26988</ObservationId>
+  <MediaId>26925</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>8527</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Achillea</Genus>
+  <Species>Achillea millefolium L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-8-1</Date>
+  <Location>Rocquencourt</Location>
+  <Latitude>48.8378</Latitude>
+  <Longitude>2.09864</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>1834</ObservationId2014>
+  <ImageId2014>30729</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

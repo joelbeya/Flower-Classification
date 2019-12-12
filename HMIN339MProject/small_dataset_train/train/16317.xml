@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>11985</ObservationId>
+  <MediaId>16317</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>967</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Hypochaeris</Genus>
+  <Species>Hypochaeris radicata L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2013-7-29</Date>
+  <Location>Sainte-Geneviève-des-Bois</Location>
+  <Latitude>48.64647</Latitude>
+  <Longitude>2.3178</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3350</ObservationId2014>
+  <ImageId2014>32368</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

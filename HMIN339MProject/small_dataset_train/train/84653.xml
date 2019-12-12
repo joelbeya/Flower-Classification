@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>31457</ObservationId>
+  <MediaId>84653</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>576</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Cyanus</Genus>
+  <Species>Cyanus segetum Hill</Species>
+  <Author>valerie bruneau-querey</Author>
+  <Date>2011-6-10</Date>
+  <Location>Beaumesnil</Location>
+  <Latitude>49.01113</Latitude>
+  <Longitude>0.70553</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>12795</ObservationId2014>
+  <ImageId2014>38010</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

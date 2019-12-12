@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32886</ObservationId>
+  <MediaId>26985</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>4516</ClassId>
+  <Family>Ranunculaceae</Family>
+  <Genus>Ficaria</Genus>
+  <Species>Ficaria verna Huds.</Species>
+  <Author>manuel pirot</Author>
+  <Date>2009-2-27</Date>
+  <Location>Pau</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>3777</ObservationId2014>
+  <ImageId2014>7596</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

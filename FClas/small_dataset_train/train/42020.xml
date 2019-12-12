@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>188</ObservationId>
+  <MediaId>42020</MediaId>
+  <Vote>5</Vote>
+  <Content>Flower</Content>
+  <ClassId>565</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Centaurea</Genus>
+  <Species>Centaurea aspera L.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2008-5-26</Date>
+  <Location>Fleury</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4056</ObservationId2014>
+  <ImageId2014>29790</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>5827</ObservationId>
+  <MediaId>77211</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6521</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Ophrys</Genus>
+  <Species>Ophrys aranifera Huds.</Species>
+  <Author>bertrand aucouturier</Author>
+  <Date>2011-4-21</Date>
+  <Location>Batz-sur-Mer</Location>
+  <Latitude>47.28285</Latitude>
+  <Longitude>-2.49223</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>7387</ObservationId2014>
+  <ImageId2014>44012</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

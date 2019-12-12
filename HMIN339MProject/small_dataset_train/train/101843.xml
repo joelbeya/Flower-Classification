@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>284</ObservationId>
+  <MediaId>101843</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6547</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis purpurea Huds.</Species>
+  <Author>Unknown51</Author>
+  <Date>2009-4-21</Date>
+  <Location>Fozières</Location>
+  <Latitude>43.74489</Latitude>
+  <Longitude>3.35093</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>1750</ObservationId2014>
+  <ImageId2014>1666</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>13774</ObservationId>
+  <MediaId>84154</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>cedric rousseau</Author>
+  <Date>2011-6-4</Date>
+  <Location>Proisy</Location>
+  <Latitude>49.89986</Latitude>
+  <Longitude>3.75504</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9433</ObservationId2014>
+  <ImageId2014>18751</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

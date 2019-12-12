@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>18198</ObservationId>
+  <MediaId>5833</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>493</ClassId>
+  <Family>Asteraceae</Family>
+  <Genus>Bellis</Genus>
+  <Species>Bellis perennis L.</Species>
+  <Author>Unknown688</Author>
+  <Date>2013-4-26</Date>
+  <Location>Bures-sur-Yvette</Location>
+  <Latitude>48.70033</Latitude>
+  <Longitude>2.17283</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>3932</ObservationId2014>
+  <ImageId2014>8600</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

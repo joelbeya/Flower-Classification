@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>23785</ObservationId>
+  <MediaId>40670</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6434</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Dactylorhiza</Genus>
+  <Species>Dactylorhiza fuchsii (Druce) Soó</Species>
+  <Author>christophe girod</Author>
+  <Date>2004-8-4</Date>
+  <Location>La Pesse (39)</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>9458</ObservationId2014>
+  <ImageId2014>59820</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>32872</ObservationId>
+  <MediaId>51152</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>2394</ClassId>
+  <Family>Cistaceae</Family>
+  <Genus>Cistus</Genus>
+  <Species>Cistus albidus L.</Species>
+  <Author>annick larbouillat</Author>
+  <Date>2006-11-2</Date>
+  <Location>Fabrègues</Location>
+  <Latitude>43.52425</Latitude>
+  <Longitude>3.76724</Longitude>
+  <YearInCLEF>ImageCLEF2013</YearInCLEF>
+  <ObservationId2014>872</ObservationId2014>
+  <ImageId2014>41816</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

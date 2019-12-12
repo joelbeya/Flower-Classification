@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>22010</ObservationId>
+  <MediaId>41580</MediaId>
+  <Vote>4</Vote>
+  <Content>Flower</Content>
+  <ClassId>8708</ClassId>
+  <Family>Apiaceae</Family>
+  <Genus>Astrantia</Genus>
+  <Species>Astrantia major L.</Species>
+  <Author>liliane roubaudi</Author>
+  <Date>2013-8-20</Date>
+  <Location>Champex-lac</Location>
+  <Latitude />
+  <Longitude />
+  <YearInCLEF>PlantCLEF2015</YearInCLEF>
+  <ObservationId2014 />
+  <ImageId2014 />
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>36462</ObservationId>
+  <MediaId>76660</MediaId>
+  <Vote>2</Vote>
+  <Content>Flower</Content>
+  <ClassId>30162</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Himantoglossum</Genus>
+  <Species>Himantoglossum hircinum (L.) Spreng.</Species>
+  <Author>franck ducasse</Author>
+  <Date>2013-6-13</Date>
+  <Location>Bonnac</Location>
+  <Latitude>43.1793</Latitude>
+  <Longitude>1.60074</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>4413</ObservationId2014>
+  <ImageId2014>23799</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

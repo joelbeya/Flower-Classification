@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>28716</ObservationId>
+  <MediaId>71191</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>6415</ClassId>
+  <Family>Orchidaceae</Family>
+  <Genus>Orchis</Genus>
+  <Species>Orchis anthropophora (L.) All.</Species>
+  <Author>patrice et agnes biree - francois</Author>
+  <Date>2013-5-20</Date>
+  <Location>Souel</Location>
+  <Latitude>44.03068</Latitude>
+  <Longitude>1.95501</Longitude>
+  <YearInCLEF>PlantCLEF2014</YearInCLEF>
+  <ObservationId2014>14545</ObservationId2014>
+  <ImageId2014>36900</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Image>
+  <ObservationId>17576</ObservationId>
+  <MediaId>105415</MediaId>
+  <Vote>3</Vote>
+  <Content>Flower</Content>
+  <ClassId>326</ClassId>
+  <Family>Aquifoliaceae</Family>
+  <Genus>Ilex</Genus>
+  <Species>Ilex aquifolium L.</Species>
+  <Author>herve goeau</Author>
+  <Date>2011-4-6</Date>
+  <Location>Paris</Location>
+  <Latitude>48.84235</Latitude>
+  <Longitude>2.35767</Longitude>
+  <YearInCLEF>ImageCLEF2012</YearInCLEF>
+  <ObservationId2014>4857</ObservationId2014>
+  <ImageId2014>16930</ImageId2014>
+  <LearnTag>Train</LearnTag>
+</Image>
